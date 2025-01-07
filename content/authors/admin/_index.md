@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lisa Nickerson
+title: Lisa Nickerson, PhD
 
 # Full Name (for SEO)
 first_name: Lisa
@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include neuroimaging, big data, and connectomics.
 
 interests:
   - Magnetic Resonance Imaging
@@ -61,12 +61,12 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigator
 ---
 
 Dr. Lisa Nickerson is an Associate Professor of Psychiatry at Harvard Medical School and the Director of the Applied Neuroimaging Statistics Research Laboratory at McLean Hospital. Her research focuses on developing and applying innovative machine learning and statistical methodologies for analyzing multimodal neuroimaging data to study Alzheimer’s Disease, substance use, and psychiatric disorders.
