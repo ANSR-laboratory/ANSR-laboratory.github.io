@@ -8,14 +8,17 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        **A**pplied **N**euroimaging **S**tatistics **R**esearch Laboratory
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **ANSR Lab** is an academic research group that focuses on developing new statistical methods for functional magnetic resonance imaging (fMRI) data analysis, using MRI
+        to investigate the structural and functional brain connectome, & applying state-of-the-art analysis methods such as multi-modal data fusion and machine learning methods for
+        basic neuroimaging research on neurological and psychiatric illness.
+
+        The ANSR Lab is embedded in the McLean Imaging Center at McLean Hospital & Harvard Medical School.
   
   - block: collection
     content:
@@ -74,7 +77,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./members/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
 ---
