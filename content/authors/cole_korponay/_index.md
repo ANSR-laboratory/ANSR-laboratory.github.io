@@ -18,7 +18,7 @@ role: Instructor in Psychiatry
 
 # Organizations/Affiliations
 organizations:
-  - name: Harvard Medical School
+  - name: McLean Hospital, Harvard Medical School
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
