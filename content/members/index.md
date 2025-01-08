@@ -13,7 +13,7 @@ sections:
       user_groups:
           - Principal Investigator
           - Research Scientists
-          - Research Trainees & Staff
+          - Research Trainees and Staff
           - Administration
           - Collaborators
           - Alumni
