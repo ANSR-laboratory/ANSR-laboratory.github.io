@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Trainees & Staff
+  - Research Trainees and Staff
 ---
 
 Dr. Lily Cheng’s research focuses on two fundamental questions: How does the brain function during navigation, and how does the environment shape cognition?
