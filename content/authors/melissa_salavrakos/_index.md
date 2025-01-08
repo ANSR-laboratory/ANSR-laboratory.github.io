@@ -33,7 +33,7 @@ education:
   courses:
     - course: PhD in Neuroscience
       institution: Université Catholique de Louvain, Brussels
-      year: 2026 (Expected)
+      year: 2026
     - course: MMed in Medicine
       institution: Université Catholique de Louvain, Brussels
       year: 2018
