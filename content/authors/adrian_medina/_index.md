@@ -2,9 +2,6 @@
 # Display name
 title: Adrián Medina, MPH, EdM
 
-# Using name pronunciation widget to inclue personal pronouns
-name_pronunciation: (they/them)
-
 # Full name (for SEO)
 first_name: Adrian
 last_name: Medina
