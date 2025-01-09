@@ -52,6 +52,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://x.com/salavrakosm?lang=ar
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=1tLqoJUAAAAJ&hl=en&oi=ao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,6 +70,6 @@ user_groups:
   - Research Trainees and Staff
 ---
 
-Melissa Salavrakos, MMed, investigates the relationships between brain macrostructure (assessed through structural MRI), brain microstructure (using diffusion-weighted MRI), brain function (via fMRI), inflammation parameters, and psychometrics in individuals with alcohol use disorder. Her research encompasses the entire study process, from patient recruitment to data analysis, focusing on a cohort of patients undergoing alcohol detoxification.
+Melissa Salavrakos, MMed, studies the effects of heavy chronic alcohol consumption on the brain, using Magnetic Resonance Imaging. She investigates the relationships between brain structure and function, behavioural parameters and plasmatic inflammation markers. Her research focuses on a cohort of patients diagnosed with alcohol use disorder and hospitalised for alcohol detoxification.
 
 She is currently a PhD candidate in the Neuroscience program at the Université Catholique de Louvain's Institute of Neurosciences (IONS). Her research activities are funded by the Fonds National de la Recherche Scientifique (FNRS) & the Belgian American Educational Foundation (BAEF) Fellowship.
