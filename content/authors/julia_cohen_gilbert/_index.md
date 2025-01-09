@@ -2,6 +2,9 @@
 # Display name
 title: Julia Cohen-Gilbert, PhD
 
+# Using name pronunciation widget to inclue personal pronouns
+name_pronunciation: (she/her)
+
 # Full name (for SEO)
 first_name: Julia
 last_name: Cohen-Gilbert
