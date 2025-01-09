@@ -2,6 +2,9 @@
 # Display name
 title: Lisa Nickerson, PhD
 
+# Using name pronunciation widget to inclue personal pronouns (test)
+name_pronunciation: (she/her)
+
 # Full Name (for SEO)
 first_name: Lisa
 last_name: Nickerson
