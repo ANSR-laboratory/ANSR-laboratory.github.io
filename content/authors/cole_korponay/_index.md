@@ -32,10 +32,10 @@ interests:
 education:
   courses:
     - course: PhD in Neuroscience
-      institution: University of Wisconsin-Madison
+      institution: University of Wisconsin, Madison
       year: 2017
     - course: MPA in Public Affairs
-      institution: University of Wisconsin-Madison
+      institution: University of Wisconsin, Madison
       year: 2017
     - course: BA in Cognitive Science
       institution: University of Pennsylvania
