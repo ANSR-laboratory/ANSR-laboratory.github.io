@@ -2,6 +2,9 @@
 # Display name
 title: Cole Korponay, PhD, MPA
 
+# Using name pronunciation widget to inclue personal pronouns
+name_pronunciation: (he/him)
+
 # Full name (for SEO)
 first_name: Cole
 last_name: Korponay
