@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href="https://www.mcleanhospital.org/profile/poornima-kumar" target="_blank">Poornima Kumar, PhD</a>
+title: Poornima Kumar, PhD
 
 # Full name (for SEO)
 first_name: Poornima
