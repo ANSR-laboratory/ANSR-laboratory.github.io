@@ -30,6 +30,7 @@ sections:
       contact_links:
         - icon: github
           icon_pack: fab
+          name: Find Us on GitHub
           link: https://github.com/ANSR-laboratory
     
       # Automatically link email and phone or display as text?
