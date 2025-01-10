@@ -19,9 +19,9 @@ sections:
         postcode: 02478
         country: United States
         country_code: US
-      #coordinates:
-      #  latitude: '37.4275'
-      #  longitude: '-122.1697'
+      coordinates:
+        latitude: '42.392085'
+        longitude: '-71.191691'
       directions: McLean Imaging Center
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
