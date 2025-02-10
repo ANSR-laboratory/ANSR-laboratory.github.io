@@ -1,14 +1,13 @@
 ---
-title: Differential effects of acute stress on anticipatory and consummatory phases
-  of reward processing.
+title: Differential Effects of Acute Stress on Anticipatory and Consummatory Phases of Reward Processing
 authors:
-- P. Kumar
-- L. H. Berghorst
-- L. D. Nickerson
-- S. J. Dutra
-- F. K. Goer
-- D. N. Greve
-- D. A. Pizzagalli
+- poornima_kumar
+- Lisa Berghorst
+- admin
+- Sunny Dutra
+- Franziska Goer
+- Douglas Greve
+- Diego Pizzagalli
 date: '2014-04-01'
 publishDate: '2025-02-10T18:27:28.719578Z'
 publication_types:
