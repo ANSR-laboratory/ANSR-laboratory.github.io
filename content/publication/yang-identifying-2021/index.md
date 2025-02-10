@@ -1,21 +1,20 @@
 ---
-title: Identifying Subgroups of Major Depressive Disorder Using Brain Structural Covariance
-  Networks and Mapping of Associated Clinical and Cognitive Variables.
+title: Identifying Subgroups of Major Depressive Disorder Using Brain Structural Covariance Networks and Mapping of Associated Clinical and Cognitive Variables
 authors:
 - Xiao Yang
-- Poornima Kumar
-- Lisa D. Nickerson
+- poornima_kumar
+- admin
 - Yue Du
 - Min Wang
 - Yayun Chen
 - Tao Li
-- Diego A. Pizzagalli
+- Diego Pizzagalli
 - Xiaohong Ma
 date: '2021-08-01'
 publishDate: '2025-02-10T18:27:28.960490Z'
 publication_types:
 - article-journal
-publication: '*Biological psychiatry global open science*'
+publication: '*Biological Psychiatry: Global Open Science*'
 doi: 10.1016/j.bpsgos.2021.04.006
 abstract: 'BACKGROUND: Identifying data-driven subtypes of major depressive disorder
   (MDD) holds promise for parsing the heterogeneity of MDD in a neurobiologically  informed
