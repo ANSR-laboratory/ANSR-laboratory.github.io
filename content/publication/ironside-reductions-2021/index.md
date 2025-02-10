@@ -1,5 +1,5 @@
 ---
-title: Reductions in Rostral Anterior Cingulate GABA Are Associated With Stress Circuitry in Females With Major Depression: A Multimodal Imaging Investigation
+title: "Reductions in Rostral Anterior Cingulate GABA Are Associated With Stress Circuitry in Females With Major Depression: A Multimodal Imaging Investigation"
 authors:
 - Maria Ironside
 - Amelia Moser
