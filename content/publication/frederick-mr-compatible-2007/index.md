@@ -1,16 +1,16 @@
 ---
-title: An MR-compatible device for delivering smoked marijuana during functional imaging.
+title: An MR-Compatible Device for Delivering Smoked Marijuana During Functional Imaging
 authors:
-- Blaise deB Frederick
-- Kimberly P. Lindsey
-- Lisa D. Nickerson
-- Elizabeth T. Ryan
-- Scott E. Lukas
+- Blaise Frederick
+- Kimberly Lindsey
+- admin
+- Elizabeth Ryan
+- Scott Lukas
 date: '2007-05-01'
 publishDate: '2025-02-10T18:27:28.624849Z'
 publication_types:
 - article-journal
-publication: '*Pharmacology, biochemistry, and behavior*'
+publication: '*Pharmacology, Biochemistry, and Behavior*'
 doi: 10.1016/j.pbb.2007.04.006
 abstract: 'Smoking is the preferred method of administration for two of the most frequently
   abused drugs, marijuana and nicotine. The high temporal and spatial resolution of  functional
