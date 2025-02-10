@@ -1,20 +1,19 @@
 ---
-title: 'Large-scale brain network activation during emotional inhibitory control:
-  Associations with alcohol misuse in college freshmen.'
+title: Large-Scale Brain Network Activation During Emotional Inhibitory Control: Associations With Alcohol Misuse in College Freshmen
 authors:
-- Julia E. Cohen-Gilbert
-- Lisa D. Nickerson
-- Anna M. Seraikas
-- Emily N. Oot
-- Maya M. Rieselbach
-- Eleanor M. Schuttenberg
-- Jennifer T. Sneider
-- Marisa M. Silveri
+- julia_cohen_gilbert
+- admin
+- Anna Seraikas
+- Emily Oot
+- Maya Rieselbach
+- Eleanor Schuttenberg
+- Jennifer Sneider
+- Marisa Silveri
 date: '2022-03-01'
 publishDate: '2025-02-10T18:27:28.928693Z'
 publication_types:
 - article-journal
-publication: '*Alcoholism, clinical and experimental research*'
+publication: '*Alcoholism, Clinical and Experimental Research*'
 doi: 10.1111/acer.14782
 abstract: 'BACKGROUND: The transition to college is associated with increased risk
   of alcohol misuse and a consequent increase in negative, alcohol-related social
