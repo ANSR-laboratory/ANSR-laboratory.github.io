@@ -1,5 +1,5 @@
 ---
-title: Structural Covariance of the Ventral Visual Stream Predicts Posttraumatic Intrusion and Nightmare Symptoms: A Multivariate Data Fusion Analysis
+title: "Structural Covariance of the Ventral Visual Stream Predicts Posttraumatic Intrusion and Nightmare Symptoms: A Multivariate Data Fusion Analysis"
 authors:
 - Nathaniel Harnett
 - Katherine Finegold
