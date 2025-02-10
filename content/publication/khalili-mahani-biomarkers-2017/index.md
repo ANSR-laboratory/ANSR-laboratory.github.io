@@ -1,5 +1,5 @@
 ---
-title: Biomarkers, Designs, and Interpretations of Resting-State fMRI in Translational Pharmacological Research: A Review of State-of-the-Art, Challenges, and Opportunities for Studying Brain Chemistry
+title: "Biomarkers, Designs, and Interpretations of Resting-State fMRI in Translational Pharmacological Research: A Review of State-of-the-Art, Challenges, and Opportunities for Studying Brain Chemistry"
 authors:
 - Najmeh Khalili-Mahani
 - Serge Rombouts
