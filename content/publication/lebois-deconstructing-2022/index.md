@@ -1,27 +1,25 @@
 ---
-title: 'Deconstructing dissociation: a triple network model of trauma-related dissociation
-  and its subtypes.'
+title: Deconstructing Dissociation: A Triple Network Model of Trauma-Related Dissociation and Its Subtypes
 authors:
-- Lauren A. M. Lebois
-- Poornima Kumar
-- Cori A. Palermo
-- Ashley M. Lambros
-- Lauren O'Connor
-- Jonathan D. Wolff
-- Justin T. Baker
-- Staci A. Gruber
+- Lauren Lebois
+- poornima_kumar
+- Cori Palermo
+- Ashley Lambros
+- Lauren O’Connor
+- Jonathan Wolff
+- Justin Baker
+- Staci Gruber
 - Nina Lewis-Schroeder
-- Kerry J. Ressler
-- Matthew A. Robinson
+- Kerry Ressler
+- Matthew Robinson
 - Sherry Winternitz
-- Lisa D. Nickerson
-- Milissa L. Kaufman
+- admin
+- Milissa Kaufman
 date: '2022-12-01'
 publishDate: '2025-02-10T18:27:28.992478Z'
 publication_types:
 - article-journal
-publication: '*Neuropsychopharmacology : official publication of the American College
-  of Neuropsychopharmacology*'
+publication: '*Neuropsychopharmacology*'
 doi: 10.1038/s41386-022-01468-1
 abstract: "Trauma-related pathological dissociation is characterized by disruptions
   in one's sense of self, perceptual, and affective experience. Dissociation and its\
