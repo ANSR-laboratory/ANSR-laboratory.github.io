@@ -1,16 +1,15 @@
 ---
-title: Prefrontal and limbic resting state brain network functional connectivity differs
-  between nicotine-dependent smokers and non-smoking controls.
+title: Prefrontal and Limbic Resting State Brain Network Functional Connectivity Differs Between Nicotine-Dependent Smokers and Non-Smoking Controls
 authors:
-- Amy C. Janes
-- Lisa D. Nickerson
-- Blaise De B. Frederick
-- Marc J. Kaufman
+- Amy Janes
+- admin
+- Blaise Frederick
+- Marc Kaufman
 date: '2012-10-01'
 publishDate: '2025-02-10T18:27:28.671783Z'
 publication_types:
 - article-journal
-publication: '*Drug and alcohol dependence*'
+publication: '*Drug and Alcohol Dependence*'
 doi: 10.1016/j.drugalcdep.2012.02.020
 abstract: 'BACKGROUND: Brain dysfunction in prefrontal cortex (PFC) and dorsal striatum
   (DS) contributes to habitual drug use. These regions are constituents of brain  networks
