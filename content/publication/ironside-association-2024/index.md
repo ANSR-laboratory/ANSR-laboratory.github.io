@@ -1,31 +1,29 @@
 ---
-title: 'Association of Lower Rostral Anterior Cingulate GABA+ and Dysregulated Cortisol
-  Stress Response With Altered Functional Connectivity in Young Adults With  Lifetime
-  Depression: A Multimodal Imaging Investigation of Trait and State  Effects.'
+title: Association of Lower Rostral Anterior Cingulate GABA+ and Dysregulated Cortisol Stress Response With Altered Functional Connectivity in Young Adults With Lifetime Depression: A Multimodal Imaging Investigation of Trait and State Effects
 authors:
 - Maria Ironside
-- Jessica M. Duda
-- Amelia D. Moser
-- Laura M. Holsen
-- Chun S. Zuo
+- Jessica Duda
+- Amelia Moser
+- Laura Holsen
+- Chun Zuo
 - Fei Du
 - Sarah Perlo
-- Christine E. Richards
+- Christine Richards
 - Xi Chen
-- Lisa D. Nickerson
-- Kaylee E. Null
-- Shiba M. Esfand
-- Madeline M. Alexander
-- David J. Crowley
+- admin
+- Kaylee Null
+- Shiba Esfand
+- Madeline Alexander
+- David Crowley
 - Meghan Lauze
 - Madhusmita Misra
-- Jill M. Goldstein
-- Diego A. Pizzagalli
+- Jill Goldstein
+- Diego Pizzagalli
 date: '2024-07-01'
 publishDate: '2025-02-10T18:27:29.060764Z'
 publication_types:
 - article-journal
-publication: '*The American journal of psychiatry*'
+publication: '*American Journal of Psychiatry*'
 doi: 10.1176/appi.ajp.20230382
 abstract: 'OBJECTIVE: Preclinical work suggests that excess glucocorticoids and reduced
   cortical γ-aminobutyric acid (GABA) may affect sex-dependent differences in brain  regions
