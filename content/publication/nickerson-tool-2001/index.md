@@ -1,5 +1,5 @@
 ---
-title: A Tool for Comparison of PET and fMRI Methods: Calculation of the Uncertainty in the Location of an Activation Site in a PET Image
+title: "A Tool for Comparison of PET and fMRI Methods: Calculation of the Uncertainty in the Location of an Activation Site in a PET Image"
 authors:
 - admin
 - Charles Martin
