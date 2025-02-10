@@ -1,29 +1,27 @@
 ---
-title: 'Reductions in rostral anterior cingulate GABA are associated with stress circuitry
-  in females with major depression: a multimodal imaging investigation.'
+title: Reductions in Rostral Anterior Cingulate GABA Are Associated With Stress Circuitry in Females With Major Depression: A Multimodal Imaging Investigation
 authors:
 - Maria Ironside
-- Amelia D. Moser
-- Laura M. Holsen
-- Chun S. Zuo
+- Amelia Moser
+- Laura Holsen
+- Chun Zuo
 - Fei Du
 - Sarah Perlo
-- Christine E. Richards
-- Jessica M. Duda
+- Christine Richards
+- Jessica Duda
 - Xi Chen
-- Lisa D. Nickerson
-- Kaylee E. Null
+- admin
+- Kaylee Null
 - Nara Nascimento
-- David J. Crowley
+- David Crowley
 - Madhusmita Misra
-- Jill M. Goldstein
-- Diego A. Pizzagalli
+- Jill Goldstein
+- Diego Pizzagalli
 date: '2021-11-01'
 publishDate: '2025-02-10T18:27:28.911945Z'
 publication_types:
 - article-journal
-publication: '*Neuropsychopharmacology : official publication of the American College
-  of Neuropsychopharmacology*'
+publication: '*Neuropsychopharmacology*'
 doi: 10.1038/s41386-021-01127-x
 abstract: The interplay between cortical and limbic regions in stress circuitry calls
   for a neural systems approach to investigations of acute stress responses in major  depressive
