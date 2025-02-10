@@ -1,5 +1,5 @@
 ---
-title: Large-Scale Brain Network Activation During Emotional Inhibitory Control: Associations With Alcohol Misuse in College Freshmen
+title: "Large-Scale Brain Network Activation During Emotional Inhibitory Control: Associations With Alcohol Misuse in College Freshmen"
 authors:
 - julia_cohen_gilbert
 - admin
