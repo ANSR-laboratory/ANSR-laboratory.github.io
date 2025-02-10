@@ -1,19 +1,18 @@
 ---
-title: Cue reactivity in cannabis-dependent adolescents.
+title: Cue Reactivity in Cannabis-Dependent Adolescents
 authors:
-- Lisa D. Nickerson
+- admin
 - Caitlin Ravichandran
-- Leslie H. Lundahl
+- Leslie Lundahl
 - John Rodolico
 - Steven Dunlap
-- George H. Trksak
-- Scott E. Lukas
+- George Trksak
+- Scott Lukas
 date: '2011-03-01'
 publishDate: '2025-02-10T18:27:28.639865Z'
 publication_types:
 - article-journal
-publication: '*Psychology of addictive behaviors : journal of the Society of Psychologists
-  in Addictive Behaviors*'
+publication: '*Psychology of Addictive Behaviors*'
 doi: 10.1037/a0021117
 abstract: The authors measured event-related potentials with a craving manipulation
   to investigate the neural correlates of drug cue reactivity in 13 adolescents who  are
