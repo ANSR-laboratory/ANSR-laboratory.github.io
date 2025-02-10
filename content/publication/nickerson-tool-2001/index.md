@@ -1,17 +1,16 @@
 ---
-title: 'A tool for comparison of PET and fMRI methods: calculation of the uncertainty
-  in the location of an activation site in a PET image.'
+title: A Tool for Comparison of PET and fMRI Methods: Calculation of the Uncertainty in the Location of an Activation Site in a PET Image
 authors:
-- L. D. Nickerson
-- C. C. Martin
-- J. L. Lancaster
-- J. H. Gao
-- P. T. Fox
+- admin
+- Charles Martin
+- Jack Lancaster
+- Jia-Hong Gao
+- Peter Fox
 date: '2001-07-01'
 publishDate: '2025-02-10T18:27:28.609230Z'
 publication_types:
 - article-journal
-publication: '*NeuroImage*'
+publication: '*Neuroimage*'
 doi: 10.1006/nimg.2000.0732
 abstract: A technique for calculating the uncertainty in the location of an activation
   site in a PET image, without performing repeated measures, is presented. With the  development
