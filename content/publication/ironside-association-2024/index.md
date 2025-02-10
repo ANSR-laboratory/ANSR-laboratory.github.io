@@ -1,5 +1,5 @@
 ---
-title: Association of Lower Rostral Anterior Cingulate GABA+ and Dysregulated Cortisol Stress Response With Altered Functional Connectivity in Young Adults With Lifetime Depression: A Multimodal Imaging Investigation of Trait and State Effects
+title: "Association of Lower Rostral Anterior Cingulate GABA+ and Dysregulated Cortisol Stress Response With Altered Functional Connectivity in Young Adults With Lifetime Depression: A Multimodal Imaging Investigation of Trait and State Effects"
 authors:
 - Maria Ironside
 - Jessica Duda
