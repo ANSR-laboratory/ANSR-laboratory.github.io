@@ -1,27 +1,25 @@
 ---
-title: 'Acute Posttraumatic Symptoms Are Associated With Multimodal Neuroimaging Structural
-  Covariance Patterns: A Possible Role for the Neural Substrates of  Visual Processing
-  in Posttraumatic Stress Disorder.'
+title: Acute Posttraumatic Symptoms Are Associated With Multimodal Neuroimaging Structural Covariance Patterns: A Possible Role for the Neural Substrates of  Visual Processing in Posttraumatic Stress Disorder
 authors:
-- Nathaniel G. Harnett
-- Jennifer S. Stevens
+- Nathaniel Harnett
+- Jennifer Stevens
 - Negar Fani
-- Sanne J. H. van Rooij
-- Timothy D. Ely
+- Sanne van Rooij
+- Timothy Ely
 - Vasiliki Michopoulos
 - Lauren Hudak
-- Alex O. Rothbaum
+- Alex Rothbaum
 - Rebecca Hinrichs
-- Sterling J. Winters
+- Sterling Winters
 - Tanja Jovanovic
-- Barbara O. Rothbaum
-- Lisa D. Nickerson
-- Kerry J. Ressler
+- Barbara Rothbaum
+- admin
+- Kerry Ressler
 date: '2022-02-01'
 publishDate: '2025-02-10T18:27:28.887621Z'
 publication_types:
 - article-journal
-publication: '*Biological psychiatry. Cognitive neuroscience and neuroimaging*'
+publication: '*Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*'
 doi: 10.1016/j.bpsc.2020.07.019
 abstract: 'BACKGROUND: Although aspects of brain morphology have been associated with
   chronic posttraumatic stress disorder (PTSD), limited work has investigated  multimodal
