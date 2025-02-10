@@ -16,7 +16,7 @@ date: '2015-01-01'
 publishDate: '2025-02-10T18:27:28.735671Z'
 publication_types:
 - article-journal
-publication: '*Psychological medicine*'
+publication: '*Psychological Medicine*'
 doi: 10.1017/S0033291714001123
 abstract: 'BACKGROUND: Individuals with major depressive disorder (MDD) are characterized
   by maladaptive responses to both positive and negative outcomes, which have been  linked
