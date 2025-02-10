@@ -1,19 +1,18 @@
 ---
-title: College Binge Drinking Associated with Decreased Frontal Activation to Negative
-  Emotional Distractors during Inhibitory Control.
+title: College Binge Drinking Associated With Decreased Frontal Activation to Negative Emotional Distractors During Inhibitory Control
 authors:
-- Julia E. Cohen-Gilbert
-- Lisa D. Nickerson
-- Jennifer T. Sneider
-- Emily N. Oot
-- Anna M. Seraikas
-- Michael L. Rohan
-- Marisa M. Silveri
+- julia_cohen_gilbert
+- admin
+- Jennifer Sneider
+- Emily Oot
+- Anna Seraikas
+- Michael Rohan
+- Marisa Silveri
 date: '2017-01-01'
 publishDate: '2025-02-10T18:27:28.828567Z'
 publication_types:
 - article-journal
-publication: '*Frontiers in psychology*'
+publication: '*Frontiers in Psychology*'
 doi: 10.3389/fpsyg.2017.01650
 abstract: The transition to college is associated with an increase in heavy episodic
   alcohol use, or binge drinking, during a time when the prefrontal cortex and  prefrontal-limbic
