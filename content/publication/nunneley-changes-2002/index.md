@@ -1,17 +1,17 @@
 ---
-title: Changes in regional cerebral metabolism during systemic hyperthermia in humans.
+title: Changes in Regional Cerebral Metabolism During Systemic Hyperthermia in Humans
 authors:
-- Sarah A. Nunneley
-- Charles C. Martin
-- James W. Slauson
-- Christopher M. Hearon
-- Lisa D. H. Nickerson
-- Patrick A. Mason
+- Sarah Nunneley
+- Charles Martin
+- James Slauson
+- Christopher Hearon
+- admin
+- Patrick Mason
 date: '2002-02-01'
 publishDate: '2025-02-10T18:27:28.617070Z'
 publication_types:
 - article-journal
-publication: '*Journal of applied physiology (Bethesda, Md. : 1985)*'
+publication: '*Journal of Applied Physiology*'
 doi: 10.1152/japplphysiol.00072.2001
 abstract: Whole body hyperthermia may produce vasodialation, nausea, and altered cognitive
   function. Animal research has identified brain regions that have important roles  in
