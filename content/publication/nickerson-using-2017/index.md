@@ -1,16 +1,15 @@
 ---
-title: Using Dual Regression to Investigate Network Shape and Amplitude in Functional
-  Connectivity Analyses.
+title: Using Dual Regression to Investigate Network Shape and Amplitude in Functional Connectivity Analyses
 authors:
-- Lisa D. Nickerson
-- Stephen M. Smith
+- admin
+- Stephen Smith
 - Döst Öngür
-- Christian F. Beckmann
+- Christian Beckmann
 date: '2017-01-01'
 publishDate: '2025-02-10T18:27:28.804283Z'
 publication_types:
 - article-journal
-publication: '*Frontiers in neuroscience*'
+publication: '*Frontiers in Neuroscience*'
 doi: 10.3389/fnins.2017.00115
 abstract: Independent Component Analysis (ICA) is one of the most popular techniques
   for the analysis of resting state FMRI data because it has several advantageous  properties
