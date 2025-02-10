@@ -1,66 +1,65 @@
 ---
-title: 'Structural covariance of the ventral visual stream predicts posttraumatic
-  intrusion and nightmare symptoms: a multivariate data fusion analysis.'
+title: Structural Covariance of the Ventral Visual Stream Predicts Posttraumatic Intrusion and Nightmare Symptoms: A Multivariate Data Fusion Analysis
 authors:
-- Nathaniel G. Harnett
-- Katherine E. Finegold
-- Lauren A. M. Lebois
-- Sanne J. H. van Rooij
-- Timothy D. Ely
-- Vishnu P. Murty
+- Nathaniel Harnett
+- Katherine Finegold
+- Lauren Lebois
+- Sanne van Rooij
+- Timothy Ely
+- Vishnu Murty
 - Tanja Jovanovic
-- Steven E. Bruce
-- Stacey L. House
-- Francesca L. Beaudoin
+- Steven Bruce
+- Stacey House
+- Francesca Beaudoin
 - Xinming An
 - Donglin Zeng
-- Thomas C. Neylan
-- Gari D. Clifford
-- Sarah D. Linnstaedt
-- Laura T. Germine
-- Kenneth A. Bollen
-- Scott L. Rauch
-- John P. Haran
-- Alan B. Storrow
+- Thomas Neylan
+- Gari Clifford
+- Sarah Linnstaedt
+- Laura Germine
+- Kenneth Bollen
+- Scott Rauch
+- John Haran
+- Alan Storrow
 - Christopher Lewandowski
-- Paul I. Musey
-- Phyllis L. Hendry
+- Paul Musey
+- Phyllis Hendry
 - Sophia Sheikh
-- Christopher W. Jones
-- Brittany E. Punches
-- Michael C. Kurz
-- Robert A. Swor
-- Lauren A. Hudak
-- Jose L. Pascual
-- Mark J. Seamon
+- Christopher Jones
+- Brittany Punches
+- Michael Kurz
+- Robert Swor
+- Lauren Hudak
+- Jose Pascual
+- Mark Seamon
 - Erica Harris
-- Anna M. Chang
+- Anna Chang
 - Claire Pearson
-- David A. Peak
-- Robert M. Domeier
-- Niels K. Rathlev
-- Brian J. O'Neil
+- David Peak
+- Robert Domeier
+- Niels Rathlev
+- Brian O'Neil
 - Paulina Sergot
-- Leon D. Sanchez
-- Mark W. Miller
-- Robert H. Pietrzak
+- Leon Sanchez
+- Mark Miller
+- Robert Pietrzak
 - Jutta Joormann
-- Deanna M. Barch
-- Diego A. Pizzagalli
-- John F. Sheridan
-- Steven E. Harte
-- James M. Elliott
-- Ronald C. Kessler
-- Karestan C. Koenen
-- Samuel A. McLean
-- Lisa D. Nickerson
-- Kerry J. Ressler
-- Jennifer S. Stevens
+- Deanna Barch
+- Diego Pizzagalli
+- John Sheridan
+- Steven Harte
+- James Elliott
+- Ronald Kessler
+- Karestan Koenen
+- Samuel McLean
+- admin
+- Kerry Ressler
+- Jennifer Stevens
 date: '2022-08-01'
 publishDate: '2025-02-10T18:27:29.026624Z'
 publication_types:
 - article-journal
-publication: '*Translational psychiatry*'
+publication: '*Translational Psychiatry*'
 doi: 10.1038/s41398-022-02085-8
 abstract: Visual components of trauma memories are often vividly re-experienced by
   survivors with deleterious consequences for normal function. Neuroimaging  research
