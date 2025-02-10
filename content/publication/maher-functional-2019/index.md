@@ -1,19 +1,18 @@
 ---
-title: Functional disconnection between the visual cortex and right fusiform face
-  area in schizophrenia.
+title: Functional Disconnection Between the Visual Cortex and Right Fusiform Face Area in Schizophrenia
 authors:
-- S. Maher
-- T. Ekstrom
-- D. Ongur
-- D. L. Levy
-- D. J. Norton
-- L. D. Nickerson
-- Y. Chen
+- Steven Maher
+- Tor Ekstrom
+- Dost Öngür
+- Deborah Levy
+- Daniel Norton
+- admin
+- Yue Chen
 date: '2019-07-01'
 publishDate: '2025-02-10T18:27:28.812306Z'
 publication_types:
 - article-journal
-publication: '*Schizophrenia research*'
+publication: '*Schizophrenia Research*'
 doi: 10.1016/j.schres.2019.05.016
 abstract: Patients with schizophrenia show impairment in processing faces, including
   facial affect and face detection, but the underlying mechanisms are unknown. We
