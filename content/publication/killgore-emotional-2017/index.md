@@ -1,18 +1,17 @@
 ---
-title: Emotional intelligence is associated with connectivity within and between resting
-  state networks.
+title: Emotional Intelligence Is Associated With Connectivity Within and Between Resting-State Networks
 authors:
-- William D. S. Killgore
+- William Killgore
 - Ryan Smith
-- Elizabeth A. Olson
+- Elizabeth Olson
 - Mareen Weber
-- Scott L. Rauch
-- Lisa D. Nickerson
+- Scott Rauch
+- admin
 date: '2017-10-01'
 publishDate: '2025-02-10T18:27:28.820491Z'
 publication_types:
 - article-journal
-publication: '*Social cognitive and affective neuroscience*'
+publication: '*Social Cognitive and Affective Neuroscience*'
 doi: 10.1093/scan/nsx088
 abstract: Emotional intelligence (EI) is defined as an individual's capacity to accurately
   perceive, understand, reason about, and regulate emotions, and to apply that  information
