@@ -1,5 +1,5 @@
 ---
-title: Snowball ICA: A Model Order Free Independent Component Analysis Strategy for Functional Magnetic Resonance Imaging Data
+title: "Snowball ICA: A Model Order Free Independent Component Analysis Strategy for Functional Magnetic Resonance Imaging Data"
 authors:
 - Guoqiang Hu
 - Abigail Waters
