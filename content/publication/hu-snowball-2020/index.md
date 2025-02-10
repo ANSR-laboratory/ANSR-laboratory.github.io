@@ -1,18 +1,17 @@
 ---
-title: 'Snowball ICA: A Model Order Free Independent Component Analysis Strategy for
-  Functional Magnetic Resonance Imaging Data.'
+title: Snowball ICA: A Model Order Free Independent Component Analysis Strategy for Functional Magnetic Resonance Imaging Data
 authors:
 - Guoqiang Hu
-- Abigail B. Waters
+- Abigail Waters
 - Serdar Aslan
 - Blaise Frederick
 - Fengyu Cong
-- Lisa D. Nickerson
+- admin
 date: '2020-01-01'
 publishDate: '2025-02-10T18:27:28.945377Z'
 publication_types:
 - article-journal
-publication: '*Frontiers in neuroscience*'
+publication: '*Frontiers in Neuroscience*'
 doi: 10.3389/fnins.2020.569657
 abstract: In independent component analysis (ICA), the selection of model order (i.e.,
   number of components to be extracted) has crucial effects on functional magnetic  resonance
