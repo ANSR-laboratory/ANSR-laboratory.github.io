@@ -1,18 +1,17 @@
 ---
-title: Frequency specific co-activation pattern analysis via sparse nonnegative tensor
-  decomposition.
+title: Frequency-Specific Co-Activation Pattern Analysis via Sparse Nonnegative Tensor Decomposition
 authors:
 - Guoqiang Hu
 - Deqing Wang
 - Siwen Luo
 - Yuxing Hao
-- Lisa D. Nickerson
+- admin
 - Fengyu Cong
 date: '2021-10-01'
 publishDate: '2025-02-10T18:27:28.904410Z'
 publication_types:
 - article-journal
-publication: '*Journal of neuroscience methods*'
+publication: '*Journal of Neuroscience Methods*'
 doi: 10.1016/j.jneumeth.2021.109299
 abstract: "BACKGROUND: Traditionally, the diagnosis of Parkinson's disease (PD) has
   been made based on symptoms. Extensive studies have demonstrated that PD may lead
