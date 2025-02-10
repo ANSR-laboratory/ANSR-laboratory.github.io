@@ -1,5 +1,5 @@
 ---
-title: Effect of Partition Coefficient, Permeability Surface Product, and Radioisotope on the Signal-to-Noise Ratio in PET Functional Brain Mapping: A Computer Simulation
+title: "Effect of Partition Coefficient, Permeability Surface Product, and Radioisotope on the Signal-to-Noise Ratio in PET Functional Brain Mapping: A Computer Simulation"
 authors:
 - Charles Martin
 - Paul Jerabek
