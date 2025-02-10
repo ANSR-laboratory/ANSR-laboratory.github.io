@@ -1,5 +1,5 @@
 ---
-title: Four-Week Mentalizing Imagery Therapy for Family Dementia Caregivers: A Randomized Controlled Trial With Neural Circuit Changes
+title: "Four-Week Mentalizing Imagery Therapy for Family Dementia Caregivers: A Randomized Controlled Trial With Neural Circuit Changes"
 authors:
 - Felipe Jain
 - Sergey Chernyak
