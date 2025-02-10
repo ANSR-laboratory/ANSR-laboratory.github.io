@@ -1,17 +1,16 @@
 ---
-title: An increase in tobacco craving is associated with enhanced medial prefrontal
-  cortex network coupling.
+title: An Increase in Tobacco Craving Is Associated With Enhanced Medial Prefrontal Cortex Network Coupling
 authors:
-- Amy C. Janes
+- Amy Janes
 - Stacey Farmer
-- Blaise deB Frederick
-- Lisa D. Nickerson
-- Scott E. Lukas
+- Blaise Frederick
+- admin
+- Scott Lukas
 date: '2014-01-01'
 publishDate: '2025-02-10T18:27:28.711845Z'
 publication_types:
 - article-journal
-publication: '*PloS one*'
+publication: '*PloS One*'
 doi: 10.1371/journal.pone.0088228
 abstract: Craving is a key aspect of drug dependence that is thought to motivate continued
   drug use. Numerous brain regions have been associated with craving, suggesting  that
