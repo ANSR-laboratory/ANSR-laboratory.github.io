@@ -1,9 +1,8 @@
 ---
-title: Impact of Substance Use Disorder on Between-Network Brain Connectivity in Early
-  Psychosis.
+title: Impact of Substance Use Disorder on Between-Network Brain Connectivity in Early Psychosis
 authors:
 - Shi Yu Chan
-- Lisa D. Nickerson
+- admin
 - Roma Pathak
 - Dost Öngür
 - Mei-Hua Hall
@@ -11,7 +10,7 @@ date: '2022-01-01'
 publishDate: '2025-02-10T18:27:28.976683Z'
 publication_types:
 - article-journal
-publication: '*Schizophrenia bulletin open*'
+publication: '*Schizophrenia Bulletin Open*'
 doi: 10.1093/schizbullopen/sgac014
 abstract: The Triple Network Model of psychopathology identifies the salience network
   (SN), central executive network (CEN), and default mode network (DMN) as key networks  underlying
