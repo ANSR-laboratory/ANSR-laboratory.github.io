@@ -1,18 +1,17 @@
 ---
-title: Comparison of the temporal response in perfusion and BOLD-based event-related
-  functional MRI.
+title: Comparison of the Temporal Response in Perfusion and BOLD-Based Event-Related Functional MRI
 authors:
-- H. L. Liu
-- Y. Pu
-- L. D. Nickerson
-- Y. Liu
-- P. T. Fox
-- J. H. Gao
+- Ho-Ling Liu
+- Yonglin Pu
+- admin
+- Yijun Liu
+- Peter Fox
+- Jia-Hong Gao
 date: '2000-05-01'
 publishDate: '2025-02-10T18:27:28.601906Z'
 publication_types:
 - article-journal
-publication: '*Magnetic resonance in medicine*'
+publication: '*Magnetic Resonance in Medicine*'
 doi: 10.1002/(sici)1522-2594(200005)43:5<768::aid-mrm22>3.0.co;2-8
 abstract: Event-related functional MRI (ER-fMRI) based on both blood oxygen level-dependent
   (BOLD) contrast and perfusion contrast has been recently developed to study human  brain
