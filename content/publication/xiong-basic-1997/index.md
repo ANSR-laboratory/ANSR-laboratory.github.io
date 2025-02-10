@@ -1,15 +1,15 @@
 ---
-title: Basic principles and neurosurgical applications of positron emission tomography.
+title: Basic Principles and Neurosurgical Applications of Positron Emission Tomography
 authors:
-- J. Xiong
-- L. D. Nickerson
-- J. H. 3rd Downs
-- P. T. Fox
+- Jinhu Xiong
+- admin
+- Hunter Downs III
+- Peter Fox
 date: '1997-07-01'
 publishDate: '2025-02-10T18:27:28.576257Z'
 publication_types:
 - article-journal
-publication: '*Neurosurgery clinics of North America*'
+publication: '*Neurosurgery Clinics of North America*'
 abstract: Positron emission tomography (PET) is a technique for studying functional
   processes in the human body in vivo. The important clinical applications of PET  in
   neurosurgery include localization of epileptic foci, diagnosis of brain  tumors,
