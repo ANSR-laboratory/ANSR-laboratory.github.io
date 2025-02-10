@@ -1,6 +1,5 @@
 ---
-title: Removal of site effects and enhancement of signal using dual projection independent
-  component analysis for pooling multi-site MRI data.
+title: Removal of Site Effects and Enhancement of Signal Using Dual Projection Independent Component Analysis for Pooling Multi-Site MRI Data
 authors:
 - Yuxing Hao
 - Huashuai Xu
@@ -9,14 +8,14 @@ authors:
 - Yunge Zhang
 - Dongyue Zhou
 - Tommi Kärkkäinen
-- Lisa D. Nickerson
+- admin
 - Huanjie Li
 - Fengyu Cong
 date: '2023-09-01'
 publishDate: '2025-02-10T18:27:29.044224Z'
 publication_types:
 - article-journal
-publication: '*The European journal of neuroscience*'
+publication: '*European Journal of Neuroscience*'
 doi: 10.1111/ejn.16120
 abstract: Combining magnetic resonance imaging (MRI) data from multi-site studies
   is a popular approach for constructing larger datasets to greatly enhance the  reliability
