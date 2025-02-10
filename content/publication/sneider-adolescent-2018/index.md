@@ -1,23 +1,22 @@
 ---
-title: Adolescent Hippocampal and Prefrontal Brain Activation During Performance of
-  the Virtual Morris Water Task.
+title: Adolescent Hippocampal and Prefrontal Brain Activation During Performance of the Virtual Morris Water Task
 authors:
-- Jennifer T. Sneider
-- Julia E. Cohen-Gilbert
-- Derek A. Hamilton
-- Elena R. Stein
+- Jennifer Sneider
+- julia_cohen_gilbert
+- Derek Hamilton
+- Elena Stein
 - Noa Golan
-- Emily N. Oot
-- Anna M. Seraikas
-- Michael L. Rohan
-- Sion K. Harris
-- Lisa D. Nickerson
-- Marisa M. Silveri
+- Emily Oot
+- Anna Seraikas
+- Michael Rohan
+- Sion Harris
+- admin
+- Marisa Silveri
 date: '2018-01-01'
 publishDate: '2025-02-10T18:27:28.845307Z'
 publication_types:
 - article-journal
-publication: '*Frontiers in human neuroscience*'
+publication: '*Frontiers in Human Neuroscience*'
 doi: 10.3389/fnhum.2018.00238
 abstract: The frontal cortex undergoes substantial structural and functional changes
   during adolescence and significant developmental changes also occur in the hippocampus.  Both
