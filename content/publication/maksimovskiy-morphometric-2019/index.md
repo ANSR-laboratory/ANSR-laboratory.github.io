@@ -1,22 +1,22 @@
 ---
-title: Morphometric Biomarkers of Adolescents With Familial Risk for Alcohol Use Disorder.
+title: Morphometric Biomarkers of Adolescents With Familial Risk for Alcohol Use Disorder
 authors:
-- Arkadiy L. Maksimovskiy
-- Emily N. Oot
-- Anna M. Seraikas
+- Arkadiy Maksimovskiy
+- Emily Oot
+- Anna Seraikas
 - Maya Rieselbach
 - Carolyn Caine
-- Jennifer T. Sneider
-- Julia E. Cohen-Gilbert
-- Sion K. Harris
-- Lisa D. Nickerson
-- Michael L. Rohan
-- Marisa M. Silveri
+- Jennifer Sneider
+- julia_cohen_gilbert
+- Sion Harris
+- admin
+- Michael Rohan
+- Marisa Silveri
 date: '2019-11-01'
 publishDate: '2025-02-10T18:27:28.869750Z'
 publication_types:
 - article-journal
-publication: '*Alcoholism, clinical and experimental research*'
+publication: '*Alcoholism, Clinical and Experimental Research*'
 doi: 10.1111/acer.14201
 abstract: 'BACKGROUND: While many adolescents exhibit risky behavior, teenagers with
   a family history (FH+) of an alcohol use disorder (AUD) are at a heightened risk  for
