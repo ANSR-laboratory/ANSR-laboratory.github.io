@@ -1,18 +1,17 @@
 ---
-title: Evaluating the effects of systemic low frequency oscillations measured in the
-  periphery on the independent component analysis results of resting state  networks.
+title: Evaluating the Effects of Systemic Low-Frequency Oscillations Measured in the Periphery on the Independent Component Analysis Results of Resting-State Networks
 authors:
 - Yunjie Tong
-- Lia M. Hocke
-- Lisa D. Nickerson
-- Stephanie C. Licata
-- Kimberly P. Lindsey
-- Blaise deB Frederick
+- Lia Hocke
+- admin
+- Stephanie Licata
+- Kimberly Lindsey
+- Blaise Frederick
 date: '2013-08-01'
 publishDate: '2025-02-10T18:27:28.680010Z'
 publication_types:
 - article-journal
-publication: '*NeuroImage*'
+publication: '*Neuroimage*'
 doi: 10.1016/j.neuroimage.2013.03.019
 abstract: Independent component analysis (ICA) is widely used in resting state functional
   connectivity studies. ICA is a data-driven method, which uses no a priori  anatomical
