@@ -1,20 +1,19 @@
 ---
-title: Brain Activation during Memory Retrieval is Associated with Depression Severity
-  in Women.
+title: Brain Activation During Memory Retrieval Is Associated With Depression Severity in Women
 authors:
-- Jennifer T. Sneider
-- Julia E. Cohen-Gilbert
-- Derek A. Hamilton
-- Anna M. Seraikas
-- Emily N. Oot
-- Eleanor M. Schuttenberg
-- Lisa D. Nickerson
-- Marisa M. Silveri
+- Jennifer Sneider
+- julia_cohen_gilbert
+- Derek Hamilton
+- Anna Seraikas
+- Emily Oot
+- Eleanor Schuttenberg
+- admin
+- Marisa Silveri
 date: '2021-01-01'
 publishDate: '2025-02-10T18:27:28.896356Z'
 publication_types:
 - article-journal
-publication: '*Psychiatry research. Neuroimaging*'
+publication: '*Psychiatry Research: Neuroimaging*'
 doi: 10.1016/j.pscychresns.2020.111204
 abstract: Major depressive disorder (MDD) is a debilitating disorder that interferes
   with daily functioning, and that occurs at higher rates in women than in men.  Structural
