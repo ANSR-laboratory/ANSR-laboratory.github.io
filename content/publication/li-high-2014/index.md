@@ -1,8 +1,8 @@
 ---
-title: A high performance 3D cluster-based test of unsmoothed fMRI data.
+title: A High-Performance 3D Cluster-Based Test of Unsmoothed fMRI Data
 authors:
 - Huanjie Li
-- Lisa D. Nickerson
+- admin
 - Jinhu Xiong
 - Qihong Zou
 - Yang Fan
@@ -14,7 +14,7 @@ date: '2014-09-01'
 publishDate: '2025-02-10T18:27:28.727925Z'
 publication_types:
 - article-journal
-publication: '*NeuroImage*'
+publication: '*Neuroimage*'
 doi: 10.1016/j.neuroimage.2014.05.015
 abstract: Cluster-size tests (CST) based on random field theory have been widely adopted
   in fMRI data analysis to detect brain activation. However, most existing approaches  can
