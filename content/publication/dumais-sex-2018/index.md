@@ -1,15 +1,15 @@
 ---
-title: Sex differences in default mode and dorsal attention network engagement.
+title: Sex Differences in Default Mode and Dorsal Attention Network Engagement
 authors:
-- Kelly M. Dumais
+- Kelly Dumais
 - Sergey Chernyak
-- Lisa D. Nickerson
-- Amy C. Janes
+- admin
+- Amy Janes
 date: '2018-01-01'
 publishDate: '2025-02-10T18:27:28.837393Z'
 publication_types:
 - article-journal
-publication: '*PloS one*'
+publication: '*PloS One*'
 doi: 10.1371/journal.pone.0199049
 abstract: Focusing on sex differences is necessary to fully understand basic neurobiological
   processes such as the engagement of large-scale brain networks  involved in attention.
