@@ -1,13 +1,12 @@
 ---
-title: Replication of Resting State-Task Network Correspondence and Novel Findings
-  on Brain Network Activation During Task fMRI in the Human Connectome Project Study.
+title: Replication of Resting State-Task Network Correspondence and Novel Findings on Brain Network Activation During Task fMRI in the Human Connectome Project Study
 authors:
-- Lisa D. Nickerson
+- admin
 date: '2018-12-01'
 publishDate: '2025-02-10T18:27:28.853736Z'
 publication_types:
 - article-journal
-publication: '*Scientific reports*'
+publication: '*Scientific Reports*'
 doi: 10.1038/s41598-018-35209-6
 abstract: There have been many recent reports highlighting a crisis in replication
   and reliability of research in psychology, neuroscience, and neuroimaging. After
