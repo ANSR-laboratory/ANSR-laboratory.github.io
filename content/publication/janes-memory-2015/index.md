@@ -1,19 +1,18 @@
 ---
-title: Memory retrieval of smoking-related images induce greater insula activation
-  as revealed by an fMRI-based delayed matching to sample task.
+title: Memory Retrieval of Smoking-Related Images Induces Greater Insula Activation as Revealed by an fMRI-Based Delayed Matching to Sample Task
 authors:
-- Amy C. Janes
-- Robert S. Ross
+- Amy Janes
+- Robert Ross
 - Stacey Farmer
-- Blaise B. Frederick
-- Lisa D. Nickerson
-- Scott E. Lukas
-- Chantal E. Stern
+- Blaise Frederick
+- admin
+- Scott Lukas
+- Chantal Stern
 date: '2015-03-01'
 publishDate: '2025-02-10T18:27:28.687801Z'
 publication_types:
 - article-journal
-publication: '*Addiction biology*'
+publication: '*Addiction Biology*'
 doi: 10.1111/adb.12112
 abstract: Nicotine dependence is a chronic and difficult to treat disorder. While
   environmental stimuli associated with smoking precipitate craving and relapse, it  is
