@@ -1,17 +1,16 @@
 ---
-title: Cortical thinness and volume differences associated with marijuana abuse in
-  emerging adults.
+title: Cortical Thinness and Volume Differences Associated With Marijuana Abuse in Emerging Adults
 authors:
-- Y. Mashhoon
-- S. Sava
-- J. T. Sneider
-- L. D. Nickerson
-- M. M. Silveri
+- Yasmin Mashhoon
+- Simon Sava
+- Jennifer Sneider
+- admin
+- Marisa Silveri
 date: '2015-10-01'
 publishDate: '2025-02-10T18:27:28.778696Z'
 publication_types:
 - article-journal
-publication: '*Drug and alcohol dependence*'
+publication: '*Drug and Alcohol Dependence*'
 doi: 10.1016/j.drugalcdep.2015.06.016
 abstract: 'BACKGROUND: The prevalence of marijuana (MJ) use among youth and its legalization
   for medical or recreational use has intensified public health endeavors of  understanding
