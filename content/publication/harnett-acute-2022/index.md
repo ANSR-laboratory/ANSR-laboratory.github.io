@@ -1,5 +1,5 @@
 ---
-title: Acute Posttraumatic Symptoms Are Associated With Multimodal Neuroimaging Structural Covariance Patterns: A Possible Role for the Neural Substrates of  Visual Processing in Posttraumatic Stress Disorder
+title: "Acute Posttraumatic Symptoms Are Associated With Multimodal Neuroimaging Structural Covariance Patterns: A Possible Role for the Neural Substrates of  Visual Processing in Posttraumatic Stress Disorder"
 authors:
 - Nathaniel Harnett
 - Jennifer Stevens
