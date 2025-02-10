@@ -1,5 +1,5 @@
 ---
-title: Differential Effects of Acute Cocaine and Placebo Administration on Visual Cortical Activation in Healthy Subjects Measured Using BOLD fMRI.
+title: Differential Effects of Acute Cocaine and Placebo Administration on Visual Cortical Activation in Healthy Subjects Measured Using BOLD fMRI
 authors:
 - Steven Lowen
 - admin
