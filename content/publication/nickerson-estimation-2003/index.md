@@ -1,0 +1,56 @@
+---
+title: Estimation of the Local Statistical Noise in Positron Emission Tomography Revisited: Practical Implementation
+authors:
+- admin
+- Shalini Narayana
+- Jack Lancaster
+- Peter Fox
+- Jia-Hong Gao
+date: '2003-06-01'
+publishDate: '2025-02-10T18:27:28.647404Z'
+publication_types:
+- article-journal
+publication: '*Neuroimage*'
+doi: 10.1016/s1053-8119(03)00104-6
+abstract: The purpose of this report is to implement novel modifications to overcome
+  the limitations of an existing algorithm for estimating the local statistical noise  in
+  a positron emission tomography (PET) image without performing repeated  measures.
+  The original algorithm is based on a modification of the filtered  back-projection
+  algorithm that allows the variance to be estimated using only a  single sinogram.
+  In addition, the effects of photon absorption, random  coincidences, radioactive
+  decay, and detector nonuniformity are taken into  account. However, there are some
+  limitations when applying this method with  modern scanners. In particular, it is
+  common practice to interleave the  projections in the sinogram (to increase the
+  sampling rate along each projection)  and to perform an interpolation when actually
+  back-projecting to reconstruct the  images. Both of these procedures introduce covariance
+  among the elements of the  projections, which is cumbersome and impractical to deal
+  with using the existing  technique for creating a variance image. An alternative
+  image reconstruction  scheme that is shown to be equivalent to image reconstruction
+  using traditional  filtered back-projection greatly simplifies the estimation of
+  the variance image.  The proposed methods were tested by Monte Carlo simulations
+  and by using repeated  scans of a uniform phantom filled with F-18. Results demonstrate
+  that the  proposed methods are very rigorous and stable when compared to calculations
+  of  the local variance using either repeated measures with a large number of  measurements,
+  or region-of-interest estimates of the variance, assuming  homogeneous variance
+  structure. In addition, strategies for extending the  proposed technique are discussed
+  that would permit the estimation of the variance  due to measurement error of a
+  pixel in a brain map from both single subjects and  pooled group data.
+tags:
+- '*Algorithms'
+- '*Artifacts'
+- '*Mathematical Computing'
+- Analysis of Variance
+- Brain Mapping/methods
+- Brain/*diagnostic imaging
+- Humans
+- Image Processing
+- Computer-Assisted/*statistics & numerical data
+- Imaging
+- Three-Dimensional/*statistics & numerical data
+- Monte Carlo Method
+- Phantoms
+- Imaging
+- Reproducibility of Results
+- Tomography
+- Emission-Computed/*statistics & numerical data
+---
