@@ -1,21 +1,21 @@
 ---
-title: Sex-specific neural responses to acute psychosocial stress in depression.
+title: Sex-Specific Neural Responses to Acute Psychosocial Stress in Depression
 authors:
 - Daifeng Dong
 - Maria Ironside
-- Emily L. Belleau
+- Emily Belleau
 - Xiaoqiang Sun
 - Chang Cheng
 - Ge Xiong
-- Lisa D. Nickerson
+- admin
 - Xiang Wang
 - Shuqiao Yao
-- Diego A. Pizzagalli
+- Diego Pizzagalli
 date: '2022-01-01'
 publishDate: '2025-02-10T18:27:28.968581Z'
 publication_types:
 - article-journal
-publication: '*Translational psychiatry*'
+publication: '*Translational Psychiatry*'
 doi: 10.1038/s41398-021-01768-y
 abstract: Major Depressive Disorder (MDD) is characterized by increased stress sensitivity.
   Emerging findings in healthy adults suggest that stress responses within  limbic/striatal-prefrontal
