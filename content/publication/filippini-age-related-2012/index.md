@@ -1,20 +1,19 @@
 ---
-title: Age-related adaptations of brain function during a memory task are also present
-  at rest.
+title: Age-Related Adaptations of Brain Function During a Memory Task Are Also Present at Rest
 authors:
-- N. Filippini
-- L. D. Nickerson
-- C. F. Beckmann
-- K. P. Ebmeier
-- G. B. Frisoni
-- P. M. Matthews
-- S. M. Smith
-- C. E. Mackay
+- Nicola Filippini
+- admin
+- Christian Beckmann
+- Klaus Ebmeier
+- Giovanni Frisoni
+- Paul Matthews
+- Stephen Smith
+- Clare Mackay
 date: '2012-02-01'
 publishDate: '2025-02-10T18:27:28.655630Z'
 publication_types:
 - article-journal
-publication: '*NeuroImage*'
+publication: '*Neuroimage*'
 doi: 10.1016/j.neuroimage.2011.11.063
 abstract: Several studies have demonstrated age-related regional differences in the
   magnitude of the BOLD signal using task-based fMRI. It has been suggested that  functional
