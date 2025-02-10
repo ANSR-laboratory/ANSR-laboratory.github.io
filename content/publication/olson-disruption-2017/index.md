@@ -1,5 +1,5 @@
 ---
-title: Disruption of White Matter Structural Integrity and Connectivity in Posttraumatic Stress Disorder: A TBSS and Tractography Study
+title: "Disruption of White Matter Structural Integrity and Connectivity in Posttraumatic Stress Disorder: A TBSS and Tractography Study"
 authors:
 - Elizabeth Olson
 - Jiaolong Cui
