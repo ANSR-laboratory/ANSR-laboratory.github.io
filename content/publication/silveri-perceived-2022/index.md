@@ -1,22 +1,21 @@
 ---
-title: Perceived stress and rejection associated with functional network strength
-  during memory retrieval in adolescents.
+title: Perceived Stress and Rejection Associated with Functional Network Strength During Memory Retrieval in Adolescents
 authors:
-- Marisa M. Silveri
-- Jennifer T. Sneider
-- Julia E. Cohen-Gilbert
-- Emily N. Oot
-- Anna M. Seraikas
-- Eleanor M. Schuttenberg
-- Derek A. Hamilton
+- Marisa Silveri
+- Jennifer Sneider
+- julia_cohen_gilbert
+- Emily Oot
+- Anna Seraikas
+- Eleanor Schuttenberg
+- Derek Hamilton
 - Helen Sabolek
-- Sion K. Harris
-- Lisa D. Nickerson
+- Sion Harris
+- admin
 date: '2022-06-01'
 publishDate: '2025-02-10T18:27:29.001873Z'
 publication_types:
 - article-journal
-publication: '*Cognitive neuroscience*'
+publication: '*Cognitive Neuroscience*'
 doi: 10.1080/17588928.2022.2026313
 abstract: "The brain undergoes substantial structural and functional remodeling during
   adolescence, including alterations in memory-processing regions influenced by  stress.
