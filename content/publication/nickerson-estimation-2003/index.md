@@ -1,5 +1,5 @@
 ---
-title: Estimation of the Local Statistical Noise in Positron Emission Tomography Revisited: Practical Implementation
+title: "Estimation of the Local Statistical Noise in Positron Emission Tomography Revisited: Practical Implementation"
 authors:
 - admin
 - Shalini Narayana
