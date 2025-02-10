@@ -1,20 +1,18 @@
 ---
-title: Individual Differences in Hemispheric Emotional Valence by Computerized Test
-  Correlate with Lateralized Differences in Nucleus Accumbens, Hippocampal and  Amygdala
-  Volumes.
+title: Individual Differences in Hemispheric Emotional Valence by Computerized Test Correlate with Lateralized Differences in Nucleus Accumbens, Hippocampal and Amygdala Volumes
 authors:
 - Fredric Schiffer
 - Alaptagin Khan
 - Kyoko Ohashi
-- Laura C. Hernandez Garcia
-- Carl M. Anderson
-- Lisa D. Nickerson
-- Martin H. Teicher
+- Laura Hernandez-Garcia
+- Carl Anderson
+- admin
+- Martin Teicher
 date: '2022-01-01'
 publishDate: '2025-02-10T18:27:28.984389Z'
 publication_types:
 - article-journal
-publication: '*Psychology research and behavior management*'
+publication: '*Psychology Research and Behavior Management*'
 doi: 10.2147/PRBM.S357138
 abstract: "PURPOSE: Conventional theories of hemispheric emotional valence (HEV) postulate
   fixed hemispheric differences in emotional processing. Schiffer's dual brain  psychology
