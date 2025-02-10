@@ -1,29 +1,28 @@
 ---
-title: A network correspondence toolbox for quantitative evaluation of novel neuroimaging
-  results.
+title: A Network Correspondence Toolbox for Quantitative Evaluation of Novel Neuroimaging Results
 authors:
-- Ru Q. Kong
-- R. Nathan Spreng
+- Ru Kong
+- Nathan Spreng
 - Aihuiping Xue
 - Richard Betzel
-- Jessica R. Cohen
+- Jessica Cohen
 - Jessica Damoiseaux
 - Felipe De Brigard
-- Simon B. Eickhoff
+- Simon Eickhoff
 - Alex Fornito
 - Caterina Gratton
-- Evan M. Gordon
-- Avram J. Holmes
-- Angela R. Laird
+- Evan Gordon
+- Avram Holmes
+- Angela Laird
 - Linda Larson-Prior
-- Lisa D. Nickerson
+- admin
 - Ana Luisa Pinho
 - Adeel Razi
 - Sepideh Sadaghiani
 - James Shine
 - Anastasia Yendiki
-- B. T. Thomas Yeo
-- Lucina Q. Uddin
+- Thomas Yeo
+- Lucina Uddin
 date: '2024-06-01'
 publishDate: '2025-02-10T18:27:29.077798Z'
 publication_types:
@@ -33,8 +32,8 @@ abstract: Decades of neuroscience research has shown that macroscale brain dynam
   can be reliably decomposed into a subset of large-scale functional networks, but
   the  specific spatial topographies of these networks and the names used to describe  them
   can vary across studies. Such discordance has hampered interpretation and  convergence
-  of research findings across the field. To address this problem, we  have developed
-  the Network Correspondence Toolbox (NCT) to permit researchers to  examine and report
+  of research findings across the field. To address this problem, we have developed
+  the Network Correspondence Toolbox (NCT) to permit researchers to examine and report
   spatial correspondence between their novel neuroimaging  results and sixteen widely
   used functional brain atlases, consistent with  recommended reporting standards
   developed by the Organization for Human Brain  Mapping. The atlases included in
