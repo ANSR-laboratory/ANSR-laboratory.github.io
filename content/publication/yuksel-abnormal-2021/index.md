@@ -1,10 +1,10 @@
 ---
-title: Abnormal Brain Bioenergetics in First-Episode Psychosis.
+title: Abnormal Brain Bioenergetics in First-Episode Psychosis
 authors:
 - Cagri Yuksel
 - Xi Chen
 - Virginie-Anne Chouinard
-- Lisa D. Nickerson
+- admin
 - Margaret Gardner
 - Talia Cohen
 - Dost Öngür
@@ -13,7 +13,7 @@ date: '2021-01-01'
 publishDate: '2025-02-10T18:27:28.952856Z'
 publication_types:
 - article-journal
-publication: '*Schizophrenia bulletin open*'
+publication: '*Schizophrenia Bulletin Open*'
 doi: 10.1093/schizbullopen/sgaa073
 abstract: 'BACKGROUND: Converging evidence indicates impaired brain energy metabolism
   in schizophrenia and other psychotic disorders. Creatine kinase (CK) is pivotal
