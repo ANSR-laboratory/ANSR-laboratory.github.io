@@ -1,18 +1,17 @@
 ---
-title: The hypnotic zolpidem increases the synchrony of BOLD signal fluctuations in
-  widespread brain networks during a resting paradigm.
+title: The Hypnotic Zolpidem Increases the Synchrony of BOLD Signal Fluctuations in Widespread Brain Networks During a Resting Paradigm
 authors:
-- Stephanie C. Licata
-- Lisa D. Nickerson
-- Steven B. Lowen
-- George H. Trksak
-- Robert R. Maclean
-- Scott E. Lukas
+- Stephanie Licata
+- admin
+- Steven Lowen
+- George Trksak
+- Robert Maclean
+- Scott Lukas
 date: '2013-04-01'
 publishDate: '2025-02-10T18:27:28.703814Z'
 publication_types:
 - article-journal
-publication: '*NeuroImage*'
+publication: '*Neuroimage*'
 doi: 10.1016/j.neuroimage.2012.12.055
 abstract: Networks of brain regions having synchronized fluctuations of the blood
   oxygen level-dependent functional magnetic resonance imaging (BOLD fMRI) time-series
