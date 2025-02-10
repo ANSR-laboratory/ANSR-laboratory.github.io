@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Adrián Medina, MPH, EdM
+title: Adrián Medina
 
 # Full name (for SEO)
 first_name: Adrian

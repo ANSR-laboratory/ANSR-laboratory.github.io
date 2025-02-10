@@ -1,6 +1,6 @@
 ---
 # Display name
-title: You "Lily" Cheng, PhD, MA
+title: You "Lily" Cheng
 
 # Full name (for SEO)
 first_name: Lily

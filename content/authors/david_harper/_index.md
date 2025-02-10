@@ -1,6 +1,6 @@
 ---
 # Display name
-title: David Harper, PhD
+title: David Harper
 
 # Full name (for SEO)
 first_name: David

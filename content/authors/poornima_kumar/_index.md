@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Poornima Kumar, PhD
+title: Poornima Kumar
 
 # Full name (for SEO)
 first_name: Poornima

@@ -18,16 +18,18 @@ sections:
         to investigate the structural and functional brain connectome, & applying state-of-the-art analysis methods such as multi-modal data fusion and machine learning methods for
         basic neuroimaging research on neurological and psychiatric illness.
 
-        The ANSR Lab is embedded in the McLean Imaging Center at McLean Hospital & Harvard Medical School.
-  
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
+        The ANSR Lab is embedded in the <a href="https://www.mcleanmri.org/" target="_blank">McLean Imaging Center</a> at McLean Hospital & the <a href="https://psych.hms.harvard.edu/" target="_blank">Department of Psychiatry</a> at Harvard Medical School.
+
         {{% cta cta_link="./members/" cta_text="Meet the Team →" %}}
-    design:
-      columns: '1'
+  
+#  - block: markdown
+#    content:
+#      title:
+#      subtitle:
+#      text: |
+#        {{% cta cta_link="./members/" cta_text="Meet the Team →" %}}
+#    design:
+#      columns: '1'
     
 # - block: collection
 #   content:

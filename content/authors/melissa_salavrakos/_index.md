@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Melissa Salavrakos, MMed
+title: Melissa Salavrakos
 
 # Full name (for SEO)
 first_name: Melissa

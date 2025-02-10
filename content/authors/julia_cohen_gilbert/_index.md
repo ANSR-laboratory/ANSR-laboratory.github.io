@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Julia Cohen-Gilbert, PhD
+title: Julia Cohen-Gilbert
 
 # Full name (for SEO)
 first_name: Julia

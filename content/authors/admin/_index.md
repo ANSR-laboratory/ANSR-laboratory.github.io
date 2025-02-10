@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lisa Nickerson, PhD
+title: Lisa Nickerson
 
 # Full Name (for SEO)
 first_name: Lisa

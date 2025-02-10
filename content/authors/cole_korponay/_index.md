@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cole Korponay, PhD, MPA
+title: Cole Korponay
 
 # Full name (for SEO)
 first_name: Cole
