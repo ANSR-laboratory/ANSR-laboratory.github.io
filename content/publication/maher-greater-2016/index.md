@@ -1,18 +1,17 @@
 ---
-title: Greater sensitivity of the cortical face processing system to perceptually-equated
-  face detection.
+title: Greater Sensitivity of the Cortical Face Processing System to Perceptually-Equated Face Detection
 authors:
-- S. Maher
-- T. Ekstrom
-- Y. Tong
-- L. D. Nickerson
-- B. Frederick
-- Y. Chen
+- Steven Maher
+- Tor Ekstrom
+- Yunjie Tong
+- admin
+- Blaise Frederick
+- Yue Chen
 date: '2016-01-01'
 publishDate: '2025-02-10T18:27:28.787641Z'
 publication_types:
 - article-journal
-publication: '*Brain research*'
+publication: '*Brain Research*'
 doi: 10.1016/j.brainres.2015.11.011
 abstract: Face detection, the perceptual capacity to identify a visual stimulus as
   a face before probing deeper into specific attributes (such as its identity or emotion),  is
