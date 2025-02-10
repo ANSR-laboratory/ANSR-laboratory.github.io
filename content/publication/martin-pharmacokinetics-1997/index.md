@@ -1,17 +1,17 @@
 ---
-title: 'The pharmacokinetics of hyperpolarized xenon: implications for cerebral MRI.'
+title: The Pharmacokinetics of Hyperpolarized Xenon: Implications for Cerebral MRI
 authors:
-- C. C. Martin
-- R. F. Williams
-- J. H. Gao
-- L. D. Nickerson
-- J. Xiong
-- P. T. Fox
+- Charles Martin
+- Robert Williams
+- Jia-Hong Gao
+- admin
+- Jinhu Xiong
+- Peter Fox
 date: '1997-10-01'
 publishDate: '2025-02-10T18:27:28.586509Z'
 publication_types:
 - article-journal
-publication: '*Journal of magnetic resonance imaging : JMRI*'
+publication: '*Journal of Magnetic Resonance Imaging*'
 doi: 10.1002/jmri.1880070512
 abstract: 'In this work, a compartmental model to predict the concentration of hyperpolarized
   xenon (Xe) in the brain is developed based on the well established  kinetics of
