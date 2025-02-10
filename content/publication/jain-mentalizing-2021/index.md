@@ -1,26 +1,25 @@
 ---
-title: 'Mentalizing imagery therapy for depressed family dementia caregivers: Feasibility,
-  clinical outcomes and brain connectivity changes.'
+title: Mentalizing Imagery Therapy for Depressed Family Dementia Caregivers: Feasibility, Clinical Outcomes, and Brain Connectivity Changes
 authors:
-- Felipe A. Jain
+- Felipe Jain
 - Sergey Chernyak
-- Lisa Nickerson
+- admin
 - Michelle Abrams
 - Marco Iacoboni
 - Leonardo Christov-Moore
-- Colm G. Connolly
-- Lauren B. Fisher
+- Colm Connolly
+- Lauren Fisher
 - Hitoshi Sakurai
 - Kate Bentley
 - Emily Tan
 - Michael Pittman
 - Helen Lavretsky
-- Andrew F. Leuchter
+- Andrew Leuchter
 date: '2021-07-01'
 publishDate: '2025-02-10T18:27:28.920543Z'
 publication_types:
 - article-journal
-publication: '*Journal of affective disorders reports*'
+publication: '*Journal of Affective Disorders Reports*'
 doi: 10.1016/j.jadr.2021.100155
 abstract: 'BACKGROUND: Family dementia caregivers experience high rates of depression
   and anxiety that often go untreated due to time demands. We aimed to determine the  feasibility
