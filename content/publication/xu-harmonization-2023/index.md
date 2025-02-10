@@ -1,20 +1,19 @@
 ---
-title: Harmonization of multi-site functional MRI data with dual-projection based
-  ICA model.
+title: Harmonization of Multi-Site Functional MRI Data With Dual-Projection Based ICA Model
 authors:
 - Huashuai Xu
 - Yuxing Hao
 - Yunge Zhang
 - Dongyue Zhou
 - Tommi Kärkkäinen
-- Lisa D. Nickerson
+- admin
 - Huanjie Li
 - Fengyu Cong
 date: '2023-01-01'
 publishDate: '2025-02-10T18:27:29.036651Z'
 publication_types:
 - article-journal
-publication: '*Frontiers in neuroscience*'
+publication: '*Frontiers in Neuroscience*'
 doi: 10.3389/fnins.2023.1225606
 abstract: Modern neuroimaging studies frequently merge magnetic resonance imaging
   (MRI) data from multiple sites. A larger and more diverse group of participants
