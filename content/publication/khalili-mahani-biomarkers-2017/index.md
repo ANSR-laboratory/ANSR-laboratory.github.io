@@ -1,26 +1,24 @@
 ---
-title: 'Biomarkers, designs, and interpretations of resting-state fMRI in translational
-  pharmacological research: A review of state-of-the-Art, challenges, and  opportunities
-  for studying brain chemistry.'
+title: Biomarkers, Designs, and Interpretations of Resting-State fMRI in Translational Pharmacological Research: A Review of State-of-the-Art, Challenges, and Opportunities for Studying Brain Chemistry
 authors:
 - Najmeh Khalili-Mahani
-- Serge A. R. B. Rombouts
-- Matthias J. P. van Osch
-- Eugene P. Duff
+- Serge Rombouts
+- Matthias van Osch
+- Eugene Duff
 - Felix Carbonell
-- Lisa D. Nickerson
+- admin
 - Lino Becerra
 - Albert Dahan
-- Alan C. Evans
+- Alan Evans
 - Jean-Paul Soucy
 - Richard Wise
-- Alex P. Zijdenbos
-- Joop M. van Gerven
+- Alex Zijdenbos
+- Joop van Gerven
 date: '2017-04-01'
 publishDate: '2025-02-10T18:27:28.751986Z'
 publication_types:
 - article-journal
-publication: '*Human brain mapping*'
+publication: '*Human Brain Mapping*'
 doi: 10.1002/hbm.23516
 abstract: A decade of research and development in resting-state functional MRI (RSfMRI)
   has opened new translational and clinical research frontiers. This review aims to  bridge
