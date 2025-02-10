@@ -1,19 +1,18 @@
 ---
-title: Discovering hidden brain network responses to naturalistic stimuli via tensor
-  component analysis of multi-subject fMRI data.
+title: Discovering Hidden Brain Network Responses to Naturalistic Stimuli via Tensor Component Analysis of Multi-Subject fMRI Data
 authors:
 - Guoqiang Hu
 - Huanjie Li
 - Wei Zhao
 - Yuxing Hao
 - Zonglei Bai
-- Lisa D. Nickerson
+- admin
 - Fengyu Cong
 date: '2022-07-01'
 publishDate: '2025-02-10T18:27:29.018868Z'
 publication_types:
 - article-journal
-publication: '*NeuroImage*'
+publication: '*Neuroimage*'
 doi: 10.1016/j.neuroimage.2022.119193
 abstract: The study of brain network interactions during naturalistic stimuli facilitates
   a deeper understanding of human brain function. To estimate large-scale brain  networks
