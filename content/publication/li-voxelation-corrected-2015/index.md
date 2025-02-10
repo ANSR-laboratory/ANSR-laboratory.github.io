@@ -1,17 +1,16 @@
 ---
-title: A voxelation-corrected non-stationary 3D cluster-size test based on random
-  field theory.
+title: A Voxelation-Corrected Non-Stationary 3D Cluster-Size Test Based on Random Field Theory
 authors:
 - Huanjie Li
-- Lisa D. Nickerson
+- admin
 - Xuna Zhao
-- Thomas E. Nichols
+- Thomas Nichols
 - Jia-Hong Gao
 date: '2015-09-01'
 publishDate: '2025-02-10T18:27:28.695933Z'
 publication_types:
 - article-journal
-publication: '*NeuroImage*'
+publication: '*Neuroimage*'
 doi: 10.1016/j.neuroimage.2015.05.094
 abstract: Cluster-size tests (CSTs) based on random field theory (RFT) are commonly
   adopted to identify significant differences in brain images. However, the use of
