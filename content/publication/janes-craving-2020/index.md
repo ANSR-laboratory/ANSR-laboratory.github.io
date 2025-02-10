@@ -1,17 +1,16 @@
 ---
-title: Craving and Cue Reactivity in Nicotine-Dependent Tobacco Smokers Is Associated
-  With Different Insula Networks.
+title: Craving and Cue Reactivity in Nicotine-Dependent Tobacco Smokers Is Associated With Different Insula Networks
 authors:
-- Amy C. Janes
-- Nathan L. Krantz
-- Lisa D. Nickerson
-- Blaise B. Frederick
-- Scott E. Lukas
+- Amy Janes
+- Nathan Krantz
+- admin
+- Blaise Frederick
+- Scott Lukas
 date: '2020-01-01'
 publishDate: '2025-02-10T18:27:28.879335Z'
 publication_types:
 - article-journal
-publication: '*Biological psychiatry. Cognitive neuroscience and neuroimaging*'
+publication: '*Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*'
 doi: 10.1016/j.bpsc.2019.09.005
 abstract: "BACKGROUND: The insula has a well-established role in nicotine dependence
   and is a node of the salience network, which integrates internal and external  information
