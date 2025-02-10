@@ -1,18 +1,17 @@
 ---
-title: 'Disruption of white matter structural integrity and connectivity in posttraumatic
-  stress disorder: A TBSS and tractography study.'
+title: Disruption of White Matter Structural Integrity and Connectivity in Posttraumatic Stress Disorder: A TBSS and Tractography Study
 authors:
-- Elizabeth A. Olson
+- Elizabeth Olson
 - Jiaolong Cui
 - Rena Fukunaga
-- Lisa D. Nickerson
-- Scott L. Rauch
-- Isabelle M. Rosso
+- admin
+- Scott Rauch
+- Isabelle Rosso
 date: '2017-05-01'
 publishDate: '2025-02-10T18:27:28.796017Z'
 publication_types:
 - article-journal
-publication: '*Depression and anxiety*'
+publication: '*Depression and Anxiety*'
 doi: 10.1002/da.22615
 abstract: "BACKGROUND: Most studies of brain white matter (WM) in posttraumatic stress
   disorder (PTSD) have focused on combat trauma, and often were confounded by  neurological
