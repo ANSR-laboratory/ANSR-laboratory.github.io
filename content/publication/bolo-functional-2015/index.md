@@ -15,7 +15,7 @@ date: '2015-08-01'
 publishDate: '2025-02-10T18:27:28.769336Z'
 publication_types:
 - article-journal
-publication: '*The Journal of Neuroscience*'
+publication: '*Journal of Neuroscience*'
 doi: 10.1523/JNEUROSCI.0319-15.2015
 abstract: "Human brain networks mediating interoceptive, behavioral, and cognitive
   aspects of glycemic control are not well studied. Using group independent component\
