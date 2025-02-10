@@ -1,18 +1,17 @@
 ---
-title: Population-level normative models reveal race- and socioeconomic-related variability
-  in cortical thickness of threat neurocircuitry.
+title: Population-Level Normative Models Reveal Race- and Socioeconomic-Related Variability in Cortical Thickness of Threat Neurocircuitry
 authors:
-- Nathaniel G. Harnett
+- Nathaniel Harnett
 - Negar Fani
 - Grace Rowland
-- Poornima Kumar
+- poornima_kumar
 - Saige Rutherford
-- Lisa D. Nickerson
+- admin
 date: '2024-06-01'
 publishDate: '2025-02-10T18:27:29.070024Z'
 publication_types:
 - article-journal
-publication: '*Communications biology*'
+publication: '*Communications Biology*'
 doi: 10.1038/s42003-024-06436-7
 abstract: The inequitable distribution of economic resources and exposure to adversity
   between racial groups contributes to mental health disparities within the United  States.
