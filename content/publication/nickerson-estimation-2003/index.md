@@ -1,17 +1,16 @@
 ---
-title: 'Estimation of the local statistical noise in positron emission tomography
-  revisited: practical implementation.'
+title: Estimation of the Local Statistical Noise in Positron Emission Tomography Revisited: Practical Implementation
 authors:
-- Lisa D. Nickerson
+- admin
 - Shalini Narayana
-- Jack L. Lancaster
-- Peter T. Fox
+- Jack Lancaster
+- Peter Fox
 - Jia-Hong Gao
 date: '2003-06-01'
 publishDate: '2025-02-10T18:27:28.647404Z'
 publication_types:
 - article-journal
-publication: '*NeuroImage*'
+publication: '*Neuroimage*'
 doi: 10.1016/s1053-8119(03)00104-6
 abstract: The purpose of this report is to implement novel modifications to overcome
   the limitations of an existing algorithm for estimating the local statistical noise  in
