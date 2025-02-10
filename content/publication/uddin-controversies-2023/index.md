@@ -1,34 +1,33 @@
 ---
-title: Controversies and progress on standardization of large-scale brain network
-  nomenclature.
+title: Controversies and Progress on Standardization of Large-Scale Brain Network Nomenclature
 authors:
-- Lucina Q. Uddin
-- Richard F. Betzel
-- Jessica R. Cohen
-- Jessica S. Damoiseaux
+- Lucina Uddin
+- Richard Betzel
+- Jessica Cohen
+- Jessica Damoiseaux
 - Felipe De Brigard
-- Simon B. Eickhoff
+- Simon Eickhoff
 - Alex Fornito
 - Caterina Gratton
-- Evan M. Gordon
-- Angela R. Laird
+- Evan Gordon
+- Angela Laird
 - Linda Larson-Prior
-- A. Randal McIntosh
-- Lisa D. Nickerson
+- Randal McIntosh
+- admin
 - Luiz Pessoa
-- Ana Luísa Pinho
-- Russell A. Poldrack
+- Ana Luísa-Pinho
+- Russell Poldrack
 - Adeel Razi
 - Sepideh Sadaghiani
-- James M. Shine
+- James Shine
 - Anastasia Yendiki
-- B. T. Thomas Yeo
-- R. Nathan Spreng
+- Thomas Yeo
+- Nathan Spreng
 date: '2023-01-01'
 publishDate: '2025-02-10T18:27:29.052504Z'
 publication_types:
 - article-journal
-publication: '*Network neuroscience (Cambridge, Mass.)*'
+publication: '*Network Neuroscience*'
 doi: 10.1162/netn_a_00323
 abstract: Progress in scientific disciplines is accompanied by standardization of
   terminology. Network neuroscience, at the level of macroscale organization of the  brain,
