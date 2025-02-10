@@ -1,16 +1,15 @@
 ---
-title: Comparison of a non-stationary voxelation-corrected cluster-size test with
-  TFCE for group-Level MRI inference.
+title: Comparison of a Non-Stationary Voxelation-Corrected Cluster-Size Test With TFCE for Group-Level MRI Inference
 authors:
 - Huanjie Li
-- Lisa D. Nickerson
-- Thomas E. Nichols
+- admin
+- Thomas Nichols
 - Jia-Hong Gao
 date: '2017-03-01'
 publishDate: '2025-02-10T18:27:28.744137Z'
 publication_types:
 - article-journal
-publication: '*Human brain mapping*'
+publication: '*Human Brain Mapping*'
 doi: 10.1002/hbm.23453
 abstract: Two powerful methods for statistical inference on MRI brain images have
   been proposed recently, a non-stationary voxelation-corrected cluster-size test
