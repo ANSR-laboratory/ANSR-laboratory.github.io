@@ -1,5 +1,5 @@
 ---
-title: Deconstructing Dissociation: A Triple Network Model of Trauma-Related Dissociation and Its Subtypes
+title: "Deconstructing Dissociation: A Triple Network Model of Trauma-Related Dissociation and Its Subtypes"
 authors:
 - Lauren Lebois
 - poornima_kumar
