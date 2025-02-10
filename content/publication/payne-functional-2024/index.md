@@ -1,5 +1,5 @@
 ---
-title: Functional Connectivity Associations With Menstrual Pain Characteristics in Adolescents: An Investigation of the Triple Network Model
+title: "Functional Connectivity Associations With Menstrual Pain Characteristics in Adolescents: An Investigation of the Triple Network Model"
 authors:
 - Laura Payne
 - Laura Seidman
