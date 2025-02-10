@@ -1,20 +1,19 @@
 ---
-title: Denoising scanner effects from multimodal MRI data using linked independent
-  component analysis.
+title: Denoising Scanner Effects From Multimodal MRI Data Using Linked Independent Component Analysis
 authors:
 - Huanjie Li
-- Stephen M. Smith
+- Stephen Smith
 - Staci Gruber
-- Scott E. Lukas
-- Marisa M. Silveri
-- Kevin P. Hill
-- William D. S. Killgore
-- Lisa D. Nickerson
+- Scott Lukas
+- Marisa Silveri
+- Kevin Hill
+- William Killgore
+- admin
 date: '2020-03-01'
 publishDate: '2025-02-10T18:27:28.937417Z'
 publication_types:
 - article-journal
-publication: '*NeuroImage*'
+publication: '*Neuroimage*'
 doi: 10.1016/j.neuroimage.2019.116388
 abstract: Pooling magnetic resonance imaging (MRI) data across research studies, or
   utilizing shared data from imaging repositories, presents exceptional  opportunities
