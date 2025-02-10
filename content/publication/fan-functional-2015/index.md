@@ -1,5 +1,5 @@
 ---
-title: Functional Connectivity-Based Parcellation of the Thalamus: An Unsupervised Clustering Method and Its Validity Investigation
+title: "Functional Connectivity-Based Parcellation of the Thalamus: An Unsupervised Clustering Method and Its Validity Investigation"
 authors:
 - Yang Fan
 - admin
