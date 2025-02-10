@@ -1,16 +1,14 @@
 ---
-title: Physiological denoising of BOLD fMRI data using Regressor Interpolation at
-  Progressive Time Delays (RIPTiDe) processing of concurrent fMRI and near-infrared  spectroscopy
-  (NIRS).
+title: Physiological Denoising of BOLD fMRI Data Using Regressor Interpolation at Progressive Time Delays (RIPTiDe) Processing of Concurrent fMRI and Near-Infrared Spectroscopy (NIRS)
 authors:
-- Blaise deB Frederick
-- Lisa D. Nickerson
+- Blaise Frederick
+- admin
 - Yunjie Tong
 date: '2012-04-01'
 publishDate: '2025-02-10T18:27:28.663341Z'
 publication_types:
 - article-journal
-publication: '*NeuroImage*'
+publication: '*Neuroimage*'
 doi: 10.1016/j.neuroimage.2012.01.140
 abstract: Confounding noise in BOLD fMRI data arises primarily from fluctuations in
   blood flow and oxygenation due to cardiac and respiratory effects, spontaneous low  frequency
