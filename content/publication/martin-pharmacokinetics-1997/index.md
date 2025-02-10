@@ -1,5 +1,5 @@
 ---
-title: The Pharmacokinetics of Hyperpolarized Xenon: Implications for Cerebral MRI
+title: "The Pharmacokinetics of Hyperpolarized Xenon: Implications for Cerebral MRI"
 authors:
 - Charles Martin
 - Robert Williams
