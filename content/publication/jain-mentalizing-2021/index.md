@@ -1,5 +1,5 @@
 ---
-title: Mentalizing Imagery Therapy for Depressed Family Dementia Caregivers: Feasibility, Clinical Outcomes, and Brain Connectivity Changes
+title: "Mentalizing Imagery Therapy for Depressed Family Dementia Caregivers: Feasibility, Clinical Outcomes, and Brain Connectivity Changes"
 authors:
 - Felipe Jain
 - Sergey Chernyak
