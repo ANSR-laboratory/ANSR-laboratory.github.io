@@ -1,21 +1,19 @@
 ---
-title: Tensor clustering on outer-product of coefficient and component matrices of
-  independent component analysis for reliable functional magnetic resonance imaging  data
-  decomposition.
+title: Tensor Clustering on Outer-Product of Coefficient and Component Matrices of Independent Component Analysis for Reliable Functional Magnetic Resonance Imaging Data Decomposition
 authors:
 - Guoqiang Hu
 - Qing Zhang
-- Abigail B. Waters
+- Abigail Waters
 - Huanjie Li
 - Chi Zhang
 - Jianlin Wu
 - Fengyu Cong
-- Lisa D. Nickerson
+- admin
 date: '2019-09-01'
 publishDate: '2025-02-10T18:27:28.861433Z'
 publication_types:
 - article-journal
-publication: '*Journal of neuroscience methods*'
+publication: '*Journal of Neuroscience Methods*'
 doi: 10.1016/j.jneumeth.2019.108359
 abstract: 'BACKGROUND: Stability of spatial components is frequently used as a post-hoc
   selection criteria for choosing the dimensionality of an independent component  analysis
