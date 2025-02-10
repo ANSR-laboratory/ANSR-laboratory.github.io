@@ -1,18 +1,17 @@
 ---
-title: Dissociable cortico-striatal connectivity abnormalities in major depression
-  in response to monetary gains and penalties.
+title: Dissociable Cortico-Striatal Connectivity Abnormalities in Major Depression in Response to Monetary Gains and Penalties
 authors:
-- R. Admon
-- L. D. Nickerson
-- D. G. Dillon
-- A. J. Holmes
-- R. Bogdan
-- P. Kumar
-- D. D. Dougherty
-- D. V. Iosifescu
-- D. Mischoulon
-- M. Fava
-- D. A. Pizzagalli
+- Roee Admon
+- admin
+- Daniel Dillon
+- Avram Holmes
+- Ryan Bogdan
+- poornima_kumar
+- Darin Dougherty
+- Dan Iosifescu
+- David Mischoulon
+- Maurizio Fava
+- Diego Pizzagalli
 date: '2015-01-01'
 publishDate: '2025-02-10T18:27:28.735671Z'
 publication_types:
