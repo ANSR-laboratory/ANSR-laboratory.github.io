@@ -1,9 +1,8 @@
 ---
-title: 'Functional Connectivity-Based Parcellation of the Thalamus: An Unsupervised
-  Clustering Method and Its Validity Investigation.'
+title: Functional Connectivity-Based Parcellation of the Thalamus: An Unsupervised Clustering Method and Its Validity Investigation
 authors:
 - Yang Fan
-- Lisa D. Nickerson
+- admin
 - Huanjie Li
 - Yajun Ma
 - Bingjiang Lyu
@@ -16,7 +15,7 @@ date: '2015-12-01'
 publishDate: '2025-02-10T18:27:28.760804Z'
 publication_types:
 - article-journal
-publication: '*Brain connectivity*'
+publication: '*Brain Connectivity*'
 doi: 10.1089/brain.2015.0338
 abstract: 'Node definition or delineating how the brain is parcellated into individual
   functionally related regions is the first step to accurately map the human  connectome.
