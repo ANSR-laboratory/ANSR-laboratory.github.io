@@ -42,7 +42,7 @@ header:
     show_search: true
     highlight_active_link: false
     logo:
-      text: "ANSR Lab"
+      text: "ANSR Laboratory"
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
 
