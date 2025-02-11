@@ -6,7 +6,7 @@ type: landing
 
 # Add the banner image
 banner:
-  image: 'home_banner.png'
+  image: 'home.png'
 
 sections:
   - block: hero
