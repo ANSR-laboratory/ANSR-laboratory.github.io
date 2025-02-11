@@ -1,7 +1,7 @@
 ---
 title: "Large-Scale Brain Network Activation During Emotional Inhibitory Control: Associations With Alcohol Misuse in College Freshmen"
 authors:
-- julia_cohen_gilbert
+- julia_gilbert
 - admin
 - Anna Seraikas
 - Emily Oot

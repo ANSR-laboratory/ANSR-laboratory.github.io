@@ -3,7 +3,7 @@ title: Perceived Stress and Rejection Associated with Functional Network Strengt
 authors:
 - Marisa Silveri
 - Jennifer Sneider
-- julia_cohen_gilbert
+- julia_gilbert
 - Emily Oot
 - Anna Seraikas
 - Eleanor Schuttenberg

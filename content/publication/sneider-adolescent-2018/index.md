@@ -2,7 +2,7 @@
 title: Adolescent Hippocampal and Prefrontal Brain Activation During Performance of the Virtual Morris Water Task
 authors:
 - Jennifer Sneider
-- julia_cohen_gilbert
+- julia_gilbert
 - Derek Hamilton
 - Elena Stein
 - Noa Golan

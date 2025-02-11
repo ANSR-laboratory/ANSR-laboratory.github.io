@@ -2,7 +2,7 @@
 title: Brain Activation During Memory Retrieval Is Associated With Depression Severity in Women
 authors:
 - Jennifer Sneider
-- julia_cohen_gilbert
+- julia_gilbert
 - Derek Hamilton
 - Anna Seraikas
 - Emily Oot

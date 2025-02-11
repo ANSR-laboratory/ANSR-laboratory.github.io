@@ -7,7 +7,7 @@ authors:
 - Maya Rieselbach
 - Carolyn Caine
 - Jennifer Sneider
-- julia_cohen_gilbert
+- julia_gilbert
 - Sion Harris
 - admin
 - Michael Rohan

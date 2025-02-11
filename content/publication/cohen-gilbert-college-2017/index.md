@@ -1,7 +1,7 @@
 ---
 title: College Binge Drinking Associated With Decreased Frontal Activation to Negative Emotional Distractors During Inhibitory Control
 authors:
-- julia_cohen_gilbert
+- julia_gilbert
 - admin
 - Jennifer Sneider
 - Emily Oot

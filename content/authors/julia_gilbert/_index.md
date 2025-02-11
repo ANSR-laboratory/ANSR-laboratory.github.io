@@ -8,7 +8,7 @@ last_name: Cohen-Gilbert
 
 # Username (this should match the folder name)
 authors:
-  - julia_cohen_gilbert
+  - julia_gilbert
 
 # Is this the primary user of the site?
 superuser: false
