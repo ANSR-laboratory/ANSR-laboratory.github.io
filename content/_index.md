@@ -6,7 +6,7 @@ type: landing
 
 # Add the banner image
 banner:
-  image: 'home.png'
+  image: 'ansrbanner.png'
 
 sections:
   - block: hero
