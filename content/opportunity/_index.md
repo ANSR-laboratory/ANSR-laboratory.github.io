@@ -1,5 +1,5 @@
 ---
-title: Opportunities
+title: ''
 
 # Listing view
 view: card
