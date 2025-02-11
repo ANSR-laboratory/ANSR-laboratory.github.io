@@ -4,11 +4,6 @@ title:
 date: 2022-10-24
 type: landing
 
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: 'home_banner.png'
-
 sections:
   - block: hero
     content:
@@ -27,6 +22,11 @@ sections:
         
         {{% cta cta_link="./members/" cta_text="Meet the Team →" %}}
   
+# Banner image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: 'home_banner.png'
+
 #  - block: markdown
 #    content:
 #      title:
