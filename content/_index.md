@@ -6,6 +6,7 @@ type: landing
 
 # Add the banner image
 banner:
+  caption: ''
   image: 'ansrbanner.png'
 
 sections:
