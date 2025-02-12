@@ -2,7 +2,7 @@
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: 'opportunity.svg'
+  image: 'opportunity.png'
 
 sections:
   - block: collection
