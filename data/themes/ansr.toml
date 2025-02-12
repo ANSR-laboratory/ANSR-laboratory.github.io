@@ -1,0 +1,30 @@
+# Theme metadata
+name = "ANSR"
+
+[light]
+  # Primary
+  primary = "#008ab0"  # Logo Blue
+
+  # Menu
+  menu_primary = "#ffffff"  # White background
+  menu_text = "#000000"  # Black text
+  menu_text_active = "#008ab0"  # Active menu item in Logo Blue
+  menu_title = "#2b2b2b"  # Dark gray for section titles
+
+  # Home sections
+  home_section_odd = "#ffffff"  # White background for odd sections
+  home_section_even = "#bcc6cc"  # Silver background for even sections
+
+[dark]
+  # Primary
+  primary = "#bcc6cc"  # Silver for accents in dark mode
+
+  # Menu
+  menu_primary = "#000000"  # Black background for dark mode menu
+  menu_text = "#ffffff"  # White text for better contrast
+  menu_text_active = "#008ab0"  # Logo Blue for active menu items
+  menu_title = "#ffffff"  # White section titles
+
+  # Links
+  link = "#3de2e5"  # Aqua for links in dark mode
+  link_hover = "#008ab0"  # Logo Blue on hover

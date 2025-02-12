@@ -1,0 +1,11 @@
+# Font style metadata
+name = "ANSR"
+
+# Local font (not using Google Fonts)
+google_fonts = ""
+
+# Font families
+heading_font = "ITC Bauhaus"
+body_font = "ITC Bauhaus"
+nav_font = "ITC Bauhaus"
+mono_font = "ITC Bauhaus"
