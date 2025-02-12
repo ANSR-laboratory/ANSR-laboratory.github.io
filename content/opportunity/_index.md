@@ -37,7 +37,7 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: showcase
+      view: card
       # Choose single or dual column layout
-      columns: '1'
+      columns: '2'
 ---
