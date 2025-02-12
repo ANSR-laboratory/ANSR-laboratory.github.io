@@ -6,11 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
-  font: native
+  theme_day: Mr Robot
+  theme_night: Mr Robot
+  font: Mr Robot
   font_size: L
-  color: ansr
 
 # SEO
 
@@ -44,7 +43,7 @@ header:
     logo:
       text: "ANSR Lab"
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: ""
 
 # Site footer
 
@@ -121,8 +120,3 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
-
-# Custom Assets
-assets:
-  css:
-    - "css/custom.css"

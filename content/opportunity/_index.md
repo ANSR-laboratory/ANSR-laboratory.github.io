@@ -8,6 +8,12 @@ banner:
   image: 'opportunity.png'
 
 sections:
+  - block: hero
+    content:
+      title: ''
+      image:
+        filename: opportunity.png
+      text: ''
   - block: collection
     id: posts
     content:
@@ -40,7 +46,7 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: compact
+      view: card
       # Choose single or dual column layout
       columns: '2'
 ---
