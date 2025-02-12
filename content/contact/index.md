@@ -1,13 +1,32 @@
 ---
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: 'contact.png'
+title: Contact
+date: 2022-10-24
+
+type: landing
 
 sections:
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: contact.png
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['0', '0', '0', '0']
+      css_class: fullscreen
   - block: contact
     content:
-      title: Contact
+      title: Use the form below to contact the ANSR Lab.
       #text: |-
       #  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. 
       #email: test@example.org
@@ -46,24 +65,4 @@ sections:
           captcha: false
     design:
       columns: '1'
-
-  #- block: markdown
-  #  content:
-  #    title:
-  #    subtitle: ''
-  #    text:
-  #  design:
-  #    columns: '1'
-  #    background:
-  #      image: 
-  #        filename: contact.jpg
-  #        filters:
-  #          brightness: 1
-  #        parallax: false
-  #        position: center
-  #        size: cover
-  #        text_color_light: true
-  #    spacing:
-  #      padding: ['20px', '0', '20px', '0']
-  #    css_class: fullscreen
 ---
