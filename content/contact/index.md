@@ -23,7 +23,6 @@ sections:
           text_color_light: true
       spacing:
         padding: ['0', '0', '0', '0']
-      css_class: fullscreen
   - block: contact
     content:
       title: Use the form below to contact the ANSR Lab
