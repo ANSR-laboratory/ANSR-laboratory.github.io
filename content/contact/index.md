@@ -1,28 +1,12 @@
 ---
 title: Contact
 date: 2022-10-24
+image:
+  filename: contact.png
 
 type: landing
 
 sections:
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: contact.png
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: 120px
-          text_color_light: true
-      spacing:
-        padding: ['0', '0', '0', '0']
   - block: contact
     content:
       title: Use the form below to contact the ANSR Lab
