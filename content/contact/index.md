@@ -19,7 +19,7 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: banner
+          size: 120px
           text_color_light: true
       spacing:
         padding: ['0', '0', '0', '0']
