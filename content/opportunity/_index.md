@@ -1,19 +1,10 @@
 ---
-title: ''
-type: landing
-
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
   image: 'opportunity.png'
 
 sections:
-  - block: hero
-    content:
-      title: ''
-      image:
-        filename: opportunity.png
-      text: ''
   - block: collection
     id: posts
     content:
@@ -24,7 +15,7 @@ sections:
         
         **Please note:** applications for the listed positions need to be made through the Mass General Brigham (MGB) portal to be formally taken into acount.
       # Choose how many pages you would like to display (0 = all pages)
-      count: 2
+      count: 0
       # Filter on criteria
       filters:
         # The folders to display content from
@@ -46,7 +37,7 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: card
+      view: showcase
       # Choose single or dual column layout
-      columns: '2'
+      columns: '1'
 ---
