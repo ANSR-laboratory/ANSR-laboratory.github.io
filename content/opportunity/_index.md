@@ -4,6 +4,9 @@ banner:
   caption: ''
   image: 'opportunity.png'
 
+# Listing view
+view: card
+
 sections:
   - block: collection
     id: posts
@@ -35,7 +38,4 @@ sections:
       # Field to sort by, such as Date or Title
       sort_by: 'Date'
       sort_ascending: false
-    design:
-      # Choose a listing view
-      view: card
 ---
