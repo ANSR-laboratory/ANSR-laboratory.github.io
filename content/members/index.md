@@ -5,6 +5,10 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: custom
+    content:
+      html: |
+        <div id="particles-js"></div>
   - block: people
     content:
       title: ''

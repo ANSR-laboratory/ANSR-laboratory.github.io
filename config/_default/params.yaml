@@ -121,3 +121,8 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+# Custom Assets
+assets:
+  css:
+    - "css/custom.css"

@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'ITC Bauhaus';
     src: local('ITC Bauhaus Light'), local('ITC-Bauhaus-Light'),
-        url('fonts/BauhausStd-Light.woff2') format('woff2'),
-        url('fonts/BauhausStd-Light.woff') format('woff'),
-        url('fonts/BauhausStd-Light.ttf') format('truetype');
+        url('/fonts/BauhausStd-Light.woff2') format('woff2'),
+        url('/fonts/BauhausStd-Light.woff') format('woff'),
+        url('/fonts/BauhausStd-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
 }

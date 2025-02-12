@@ -1,0 +1,10 @@
+{{ define "main" }}
+    {{ .Content }}
+
+    <!-- Particles Container -->
+    <div id="particles-js"></div>
+
+    <!-- Load JavaScript Files -->
+    <script src="{{ "js/particles.js" | absURL }}"></script>
+    <script src="{{ "js/particles-init.js" | absURL }}"></script>
+{{ end }}
