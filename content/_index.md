@@ -4,11 +4,6 @@ title:
 date: 2022-10-24
 type: landing
 
-# Add the banner image
-banner:
-  caption: ''
-  image: 'ansrbanner.png'
-
 sections:
   - block: hero
     content:
@@ -26,4 +21,9 @@ sections:
         We are based in the <a href="https://www.mcleanmri.org/" target="_blank">McLean Imaging Center</a> at McLean Hospital & the <a href="https://psych.hms.harvard.edu/" target="_blank">Department of Psychiatry</a> at Harvard Medical School. 
         
         {{% cta cta_link="./members/" cta_text="Meet the Team →" %}}
+
+# Add the banner image
+banner:
+  caption: ''
+  image: 'ansrbanner.png'
 ---

@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: ANSR
-  theme_night: ANSR
+  theme_night:
   font: ANSR
   font_size: L
 
@@ -41,9 +41,9 @@ header:
     show_search: true
     highlight_active_link: false
     logo:
-      text: "ANSR Lab"
+      text: 'ANSR Lab'
       # Logo filename in `assets/media/` folder
-      filename: ""
+      filename: ''
 
 # Site footer
 
