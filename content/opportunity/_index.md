@@ -15,7 +15,7 @@ sections:
         
         **Please note:** applications for the listed positions need to be made through the Mass General Brigham (MGB) portal to be formally taken into acount.
       # Choose how many pages you would like to display (0 = all pages)
-      count: 0
+      count: 5
       # Filter on criteria
       filters:
         # The folders to display content from
@@ -38,6 +38,4 @@ sections:
     design:
       # Choose a listing view
       view: card
-      # Choose single or dual column layout
-      columns: '1'
 ---
