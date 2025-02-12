@@ -6,8 +6,8 @@ name = "ANSR"
   primary = "#008ab0"  # Logo Blue
 
   # Menu
-  menu_primary = "#008ab0"  # Logo blue background
-  menu_text = "#000000"  # Black text
+  menu_primary = "#ffffff"  # White background
+  menu_text = "#008ab0"  # Logo Blue text
   menu_text_active = "#008ab0"  # Text with links in Logo Blue
   menu_title = "#000000"  # Black for section titles
 
