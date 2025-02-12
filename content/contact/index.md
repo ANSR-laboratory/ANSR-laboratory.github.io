@@ -19,14 +19,14 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: cover
+          size: banner
           text_color_light: true
       spacing:
         padding: ['0', '0', '0', '0']
       css_class: fullscreen
   - block: contact
     content:
-      title: Use the form below to contact the ANSR Lab.
+      title: Use the form below to contact the ANSR Lab
       #text: |-
       #  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. 
       #email: test@example.org
