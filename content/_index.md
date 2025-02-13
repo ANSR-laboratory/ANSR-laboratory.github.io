@@ -46,4 +46,17 @@ sections:
         Through **thoughtful mentorship, open science practices, and equitable research opportunities**, we aim to contribute to a scientific community that reflects and serves the diversity of the world around us. We **welcome scholars of all backgrounds** and strive to ensure that **our work promotes knowledge that is accessible, transparent, and impactful for all.**  
 
         {{% cta cta_link="./members/" cta_text="Meet the Team →" %}}
+  - block: collection
+    content:
+     title: Latest Preprints
+     text: ""
+     count: 5
+     filters:
+      folders:
+        - publication
+      publication_type: 'article'
+    design:
+      view: citation
+      columns: '1'
+
 ---
