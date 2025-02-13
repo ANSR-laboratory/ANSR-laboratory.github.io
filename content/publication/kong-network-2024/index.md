@@ -26,7 +26,7 @@ authors:
 date: '2024-06-01'
 publishDate: '2025-02-10T18:27:29.077798Z'
 publication_types:
-- ["article"]
+- article
 doi: 10.1101/2024.06.17.599426
 abstract: Decades of neuroscience research has shown that macroscale brain dynamics
   can be reliably decomposed into a subset of large-scale functional networks, but
