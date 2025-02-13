@@ -17,7 +17,7 @@ sections:
       background:
         image:
           filename: "ansrbanner.png"
-          size: contain  # Ensures full width
+          size: cover  # Ensures full width
           position: center
           parallax: false
   - block: markdown

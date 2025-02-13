@@ -16,7 +16,7 @@ sections:
       background:
         image:
           filename: "people.png"
-          size: contain  # Ensures full width
+          size: cover  # Ensures full width
           position: center
           parallax: false
   - block: people
