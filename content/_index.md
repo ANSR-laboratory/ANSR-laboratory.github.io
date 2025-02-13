@@ -13,6 +13,13 @@ sections:
       image:
         filename: "ansrbanner.png"
         focal_point: "center"
+    design:
+      background:
+        image:
+          filename: "ansrbanner.png"
+          size: cover  # Ensures full width
+          position: center
+          parallax: false
   - block: markdown
     content:
       title: 'Our Science'
