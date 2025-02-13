@@ -12,3 +12,15 @@
 body {
     font-family: 'ITC Bauhaus', sans-serif;
 }
+
+/* Move duplicate image behind background and make it invisible */
+.banner-layer-fix img {
+    position: absolute !important;
+    width: 100%;
+    height: auto;
+    top: 0;
+    left: 0;
+    z-index: -1;  /* Pushes it behind */
+    opacity: 0;  /* Fully transparent */
+    pointer-events: none; /* Prevents any accidental interaction */
+}

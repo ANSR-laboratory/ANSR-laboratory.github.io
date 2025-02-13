@@ -20,6 +20,7 @@ sections:
           size: cover  # Ensures full width
           position: center
           parallax: false
+      css_class: banner-layer-fix  # Custom class to move the duplicate behind
   - block: markdown
     content:
       title: 'Our Science'
