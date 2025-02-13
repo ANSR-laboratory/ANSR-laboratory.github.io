@@ -1,5 +1,5 @@
 ---
-title: 'Read About Our Work'
+title: 'Read About Our Work!'
 
 # Listing view
 view: citation
