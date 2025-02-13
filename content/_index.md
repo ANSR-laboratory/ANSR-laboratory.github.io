@@ -10,9 +10,6 @@ sections:
     content:
       title: ""
       subtitle: ""
-      image:
-        filename: "ansrbanner.png"
-        focal_point: "center"
     design:
       background:
         image:
