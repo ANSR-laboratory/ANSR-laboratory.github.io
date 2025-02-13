@@ -10,13 +10,9 @@ sections:
     content:
       title: ""
       subtitle: ""
-    design:
-      background:
-        image:
-          filename: "ansrbanner.png"
-          size: cover  # Ensures full width
-          position: center
-          parallax: false
+      image:
+        filename: "ansrbanner.png"
+        focal_point: "center"
   - block: markdown
     content:
       title: 'Our Science'
