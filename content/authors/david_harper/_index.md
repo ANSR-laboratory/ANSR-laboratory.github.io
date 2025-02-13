@@ -22,7 +22,7 @@ organizations:
     url: https://www.mcleanhospital.org/profile/david-harper
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include
+bio: My research interests include neurodegenerative disorders, neuropsychiatric symptoms, and lifespan development.
 
 interests:
   - Neurodegenerative Disorders

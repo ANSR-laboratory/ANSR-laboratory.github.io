@@ -1,5 +1,5 @@
 ---
-title: Research Aims
+title: Advancing Neuroimaging Science
 
 # Listing view
 view: compact

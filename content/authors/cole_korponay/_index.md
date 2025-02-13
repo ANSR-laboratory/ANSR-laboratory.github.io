@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include studying how human brain circuits coordinate with each other in time and space to produce behavior, how this coordination goes awry in psychopathology, and how we can advance methods for fMRI data analysis to deepen insights about the brain. 
+bio: My research interests connectomics, psychopathology, and neuroimaging methods.
 
 interests:
   - Magnetic Resonance Imaging

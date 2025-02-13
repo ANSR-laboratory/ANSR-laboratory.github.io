@@ -1,8 +1,11 @@
 ---
 title: Contact
 date: 2022-10-24
-image:
-  filename: contact.png
+
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: 'contact.png'
 
 type: landing
 

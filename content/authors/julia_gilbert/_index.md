@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include  
+bio: My research interests include suicide ideation, lifespan development, and psychopathology.
 
 interests:
   - Brain Development

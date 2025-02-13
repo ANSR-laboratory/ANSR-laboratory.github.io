@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 
+bio: My research interests include neurodegenerative disorder, aging, and neurogenetics.
 
 interests:
   - Computational Neuroscience
