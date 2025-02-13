@@ -20,21 +20,52 @@ sections:
           size: cover  # Ensures full width
           position: center
           parallax: false
-  - block: hero
+  - block: markdown
     content:
-      title: "Our Science"
-      subtitle: |
-        <span style="color:#008ab0;"><strong>We develop and apply advanced statistical and machine learning methods to improve neuroimaging analysis and enhance our understanding of brain function in health and disease.</strong></span>
-      image:
-        filename: "hms_mcl.svg"
-        focal_point: "center"
-        width: "400px"
+      title: 'Our Science'
       text: |
+        <div style="width:20%; margin: auto;">
+
+        <span style="color:#008ab0;"><strong>We develop and apply advanced statistical and machine learning methods to improve neuroimaging analysis and enhance our understanding of brain function in health and disease.</strong></span>
+
+        ![HMS & McLean Logo](hms_mcl.svg)
+
         We are based in the <a href="https://www.mcleanmri.org/" target="_blank">McLean Imaging Center</a> at McLean Hospital & the <a href="https://psych.hms.harvard.edu/" target="_blank">Department of Psychiatry</a> at Harvard Medical School.
-    design:
-      background:
-        color: "#ffffff"
-      alignment: center
+        </div>
+  - block: feature
+    content:
+      title: ''
+      subtitle: ''
+      items:
+        - icon: neuroimaging
+          icon_pack: custom
+          name: "Neuroimaging Research"
+          description: "Advancing neuroimaging techniques to study brain structure and function, integrating fMRI, DTI, and advanced computational models."
+
+        - icon: computation
+          icon_pack: custom
+          name: "Computational Methods"
+          description: "Developing machine learning and statistical techniques to analyze complex neuroimaging datasets, uncovering meaningful patterns in brain function and their implications for neuropsychiatric health and disease."
+
+        - icon: data
+          icon_pack: custom
+          name: "Big Data in Neuroscience"
+          description: "Leveraging large-scale datasets like HCP and ADNI to understand individual variability and brain-behavior relationships."
+
+        - icon: biopsych
+          icon_pack: custom
+          name: "Biological Psychiatry"
+          description: "Investigating the biological basis of psychiatric disorders using brain imaging, computational modeling, and multi-modal data analysis to uncover brain-behavior associations and inform precision medicine approaches."
+
+        - icon: science
+          icon_pack: custom
+          name: "Open Science & Reproducibility"
+          description: "Promoting transparency through open-source tools, data sharing, and reproducible workflows in neuroimaging research."
+
+        - icon: mentor
+          icon_pack: custom
+          name: "Mentorship & Collaboration"
+          description: "Fostering an inclusive, diverse, and supportive research environment for trainees and interdisciplinary collaborations."
   - block: hero
     content:
       title: Lab Values
