@@ -7,12 +7,11 @@ type: landing
 
 sections:
   - block: hero
-    css_class: banner-layer-fix  # Apply the custom class to the entire section
     content:
       title: ""
       subtitle: ""
       image:
-        filename: "ansrbanner.png"
+        filename: "placeholder.png"
         focal_point: "center"
     design:
       background:
