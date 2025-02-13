@@ -13,7 +13,7 @@ sections:
       background:
         image: 
           filename: 'ansrbanner.png'
-          size: actual
+          size: contain
           position: center
           parallax: false
   - block: markdown
@@ -22,7 +22,7 @@ sections:
       text: |
         <br>
         
-        ### We develop and apply advanced statistical and machine learning methods to improve neuroimaging analysis and enhance our understanding of brain function in health and disease.
+        ### <span style="color:#008ab0;">We develop and apply advanced statistical and machine learning methods to improve neuroimaging analysis and enhance our understanding of brain function in health and disease.</span>
 
         The Applied Neuroimaging Statistics Research Laboratory is an academic research group dedicated to improving statistical methodologies for analyzing functional magnetic resonance imaging (fMRI) data. Our research spans multiple domains, including the development of novel computational tools for studying the brain's structural and functional connectome. We leverage state-of-the-art techniques such as multi-modal data fusion and machine learning to address fundamental questions in neuroimaging and to enhance our understanding of neurological and psychiatric disorders. 
         
@@ -37,7 +37,8 @@ sections:
       image:
         filename: welcome.jpg
       text: |
-        ### Accessibility, Diversity, Equity, Inclusion, & Belonging
+        ### <span style="color:#008ab0;">Accessibility, Diversity, Equity, Inclusion, & Belonging</span>
+
         At the **ANSR Lab**, we are committed to fostering an inclusive, equitable, and welcoming environment where diverse perspectives drive innovation in neuroimaging and biomedical research.  
 
         We believe that **scientific discovery flourishes when all voices are heard**, and we actively work to **break down barriers** that have historically excluded underrepresented groups in STEM. Our lab is a space where **collaboration, respect, and belonging** are the foundation of both our research and mentorship.  
