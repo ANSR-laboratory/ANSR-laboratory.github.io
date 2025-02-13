@@ -5,6 +5,20 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: hero
+    content:
+      title: ""
+      subtitle: ""
+      image:
+        filename: "placeholder.png"
+        focal_point: "center"
+    design:
+      background:
+        image:
+          filename: "people.png"
+          size: cover  # Ensures full width
+          position: center
+          parallax: false
   - block: people
     content:
       title: ''
