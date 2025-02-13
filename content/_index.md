@@ -8,6 +8,15 @@ type: landing
 sections:
   - block: markdown
     content:
+      title : ''
+    design:
+      background:
+        image: 
+          filename: 'ansrbanner.png'
+          position: center
+          parallax: false
+  - block: markdown
+    content:
       title: 'Our Science'
       subtitle: |
         We develop and apply advanced statistical and machine learning methods to improve neuroimaging analysis and enhance our understanding of brain function in health and disease.
@@ -24,10 +33,10 @@ sections:
   - block: hero
     content:
       title: Lab Values
-      subtitle: Accessibility, Diversity, Equity, Inclusion, & Belonging
       image:
         filename: welcome.jpg
       text: |
+        ### Accessibility, Diversity, Equity, Inclusion, & Belonging
         At the **ANSR Lab**, we are committed to fostering an inclusive, equitable, and welcoming environment where diverse perspectives drive innovation in neuroimaging and biomedical research.  
 
         We believe that **scientific discovery flourishes when all voices are heard**, and we actively work to **break down barriers** that have historically excluded underrepresented groups in STEM. Our lab is a space where **collaboration, respect, and belonging** are the foundation of both our research and mentorship.  

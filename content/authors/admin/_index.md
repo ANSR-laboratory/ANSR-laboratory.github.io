@@ -51,6 +51,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/ANSR-laboratory
+  - icon: custom/catalyst
+    link: https://connects.catalyst.harvard.edu/Profiles/display/Person/65562
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,7 +71,7 @@ user_groups:
   - Principal Investigator
 ---
 
-Dr. Lisa Nickerson is an Associate Professor of Psychiatry at Harvard Medical School and the Director of the Applied Neuroimaging Statistics Research Laboratory at McLean Hospital. Her research focuses on developing and applying innovative machine learning and statistical methodologies for analyzing multimodal neuroimaging data to study Alzheimer’s Disease, substance use, and psychiatric disorders.
+<a href="https://www.mcleanhospital.org/profile/lisa-nickerson" target="_blank">Dr. Lisa Nickerson</a> is an Associate Professor of Psychiatry at Harvard Medical School and the Director of the Applied Neuroimaging Statistics Research Laboratory at McLean Hospital. Her research focuses on developing and applying innovative machine learning and statistical methodologies for analyzing multimodal neuroimaging data to study Alzheimer’s Disease, substance use, and psychiatric disorders.
 
 Dr. Nickerson’s current work integrates large-scale, open-access neuroimaging datasets, including the Human Connectome Project (HCP), Connectomes Related to Human Disease (CRHD), and Alzheimer’s Disease Neuroimaging Initiative (ADNI). Her research leverages computational techniques such as tensor and matrix decomposition methods, including independent component analysis (ICA) and linked ICA for data fusion, as well as normative modeling, to investigate brain structure and function. She is the principal investigator on a five-year NIH-funded R01 grant aimed at utilizing HCP Lifespan and Connectomes Related to Human Disease datasets to study neuropsychiatric symptoms in Alzheimer’s Disease.
 
