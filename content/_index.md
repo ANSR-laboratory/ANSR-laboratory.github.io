@@ -16,7 +16,7 @@ sections:
     design:
       background:
         image:
-          filename: "ansrbanner.png"
+          filename: "people.png"
           size: cover  # Ensures full width
           position: center
           parallax: false

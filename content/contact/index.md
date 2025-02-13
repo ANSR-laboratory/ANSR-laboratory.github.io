@@ -10,6 +10,20 @@ banner:
 type: landing
 
 sections:
+  - block: hero
+    content:
+      title: ""
+      subtitle: ""
+      image:
+        filename: "placeholder.png"
+        focal_point: "center"
+    design:
+      background:
+        image:
+          filename: "contact.png"
+          size: cover  # Ensures full width
+          position: center
+          parallax: false
   - block: contact
     content:
       title: Use the form below to contact the ANSR Lab
