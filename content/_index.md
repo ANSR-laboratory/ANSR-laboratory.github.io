@@ -20,26 +20,21 @@ sections:
           size: cover  # Ensures full width
           position: center
           parallax: false
-  - block: markdown
+  - block: hero
     content:
-      title: 'Our Science'
+      title: "Our Science"
+      subtitle: |
+        <span style="color:#008ab0;"><strong>We develop and apply advanced statistical and machine learning methods to improve neuroimaging analysis and enhance our understanding of brain function in health and disease.</strong></span>
+      image:
+        filename: "hms_mcl.svg"
+        focal_point: "center"
+        width: "400px"
       text: |
-        <div style="text-align: center;">
-
-        <span style="color:#008ab0; font-weight: bold;">
-        We develop and apply advanced statistical and machine learning methods to improve neuroimaging analysis and enhance our understanding of brain function in health and disease.
-        </span>
-
-        <br>
-
-        <img src="{{< relURL "media/hms_mcl.svg" >}}" alt="HMS & McLean Logo"
-        style="width: 100%; max-width: 400px; margin: 5px auto; display: block;">
-
-        <br>
-
         We are based in the <a href="https://www.mcleanmri.org/" target="_blank">McLean Imaging Center</a> at McLean Hospital & the <a href="https://psych.hms.harvard.edu/" target="_blank">Department of Psychiatry</a> at Harvard Medical School.
-
-        </div>
+    design:
+      background:
+        color: "#ffffff"
+      alignment: center
   - block: hero
     content:
       title: Lab Values
