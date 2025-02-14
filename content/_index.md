@@ -27,7 +27,7 @@ sections:
         <span style="color:#008ab0;"><strong>We develop and apply advanced statistical and machine learning methods to improve neuroimaging analysis and enhance our understanding of brain function in health and disease.</strong></span>
         <br>
 
-        ![HMS & McLean Logo](hms_mcl.svg#center)
+        ![HMS & McLean Logo](hms_mcl.svg){ width="500" height="250" style="display: block; margin: 0 auto" }
         
         We are based in the <a href="https://www.mcleanmri.org/" target="_blank">McLean Imaging Center</a> at McLean Hospital & the <a href="https://psych.hms.harvard.edu/" target="_blank">Department of Psychiatry</a> at Harvard Medical School.
   - block: hero
