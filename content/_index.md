@@ -24,7 +24,7 @@ sections:
     content:
       title: 'Our Science'
       image:
-        filename: "hms_mcl.svg"
+        filename: "hms_mcl.png"
         focal_point: "center"
       text: |
         <span style="color:#008ab0;"><strong>We develop and apply advanced statistical and machine learning methods to improve neuroimaging analysis and enhance our understanding of brain function in health and disease.</strong></span>
