@@ -29,6 +29,15 @@ sections:
         ![HMS & McLean Logo](hms_mcl.svg)
         
         We are based in the <a href="https://www.mcleanmri.org/" target="_blank">McLean Imaging Center</a> at McLean Hospital & the <a href="https://psych.hms.harvard.edu/" target="_blank">Department of Psychiatry</a> at Harvard Medical School.
+  - block: feature
+    content:
+      title: ''
+      text: ''
+      items:
+        - name: "Neuroimaging Research"
+          description: "Advancing neuroimaging techniques to study brain structure and function, integrating fMRI, DTI, and advanced computational models."
+          icon: neuroimaging
+          icon_pack: custom
   - block: hero
     content:
       title: Lab Values
