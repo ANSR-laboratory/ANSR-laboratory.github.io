@@ -24,3 +24,9 @@ body {
     opacity: 0;  /* Fully transparent */
     pointer-events: none; /* Prevents any accidental interaction */
 }
+
+/* Center align specific images */
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+}
