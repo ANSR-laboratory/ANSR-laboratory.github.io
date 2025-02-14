@@ -20,7 +20,7 @@ sections:
           size: cover  # Ensures full width
           position: center
           parallax: false
-  - block: markdown
+  - block: features
     content:
       title: 'Our Science'
       text: |
@@ -29,14 +29,30 @@ sections:
         ![HMS & McLean Logo](hms_mcl.svg)
         
         We are based in the <a href="https://www.mcleanmri.org/" target="_blank">McLean Imaging Center</a> at McLean Hospital & the <a href="https://psych.hms.harvard.edu/" target="_blank">Department of Psychiatry</a> at Harvard Medical School.
-  - block: features
-    content:
-      title: ''
-      text: ''
       items:
         - name: "Neuroimaging Research"
-          description: "Advancing neuroimaging techniques to study brain structure and function, integrating fMRI, DTI, and advanced computational models."
+          description: "Advancing neuroimaging techniques to study brain structure and function, integrating fMRI, PET, and advanced computational models."
           icon: neuroimaging
+          icon_pack: custom
+        - name: "Computational Methods"
+          description: "Developing machine learning and statistical techniques to analyze complex neuroimaging datasets, uncovering meaningful patterns in brain function and their implications for neuropsychiatric health and disease."
+          icon: computation
+          icon_pack: custom
+        - name: "Big Data in Neuroscience"
+          description: "Leveraging large-scale datasets like HCP and ADNI to understand individual variability and brain-behavior relationships."
+          icon: data
+          icon_pack: custom
+        - name: "Biological Psychiatry"
+          description: "Investigating the biological basis of psychiatric disorders using brain imaging, computational modeling, and multi-modal data analysis to uncover brain-behavior associations and inform precision medicine approaches."
+          icon: biopsych
+          icon_pack: custom
+        - name: "Open Science & Reproducibility"
+          description: "Promoting transparency through open-source tools, data sharing, and reproducible workflows in neuroimaging research."
+          icon: science
+          icon_pack: custom
+        - name: "Mentorship & Collaboration"
+          description: "Fostering an inclusive, diverse, and supportive research environment for trainees and interdisciplinary collaborations."
+          icon: mentor
           icon_pack: custom
   - block: hero
     content:
