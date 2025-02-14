@@ -2,11 +2,6 @@
 title: Contact
 date: 2022-10-24
 
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: 'contact.png'
-
 type: landing
 
 sections:
@@ -20,7 +15,7 @@ sections:
     design:
       background:
         image:
-          filename: "contact.png"
+          filename: "contact.svg"
           size: cover  # Ensures full width
           position: center
           parallax: false

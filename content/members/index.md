@@ -15,7 +15,7 @@ sections:
     design:
       background:
         image:
-          filename: "people.png"
+          filename: "people.svg"
           size: cover  # Ensures full width
           position: center
           parallax: false
