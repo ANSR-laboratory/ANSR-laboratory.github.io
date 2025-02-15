@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Research
 type: landing
 
 sections:
