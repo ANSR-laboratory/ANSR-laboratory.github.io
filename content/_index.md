@@ -9,6 +9,10 @@ sections:
   - block: hero
     content:
       title: ""
+      subtitle: ""
+      image:
+        filename: "placeholder.png"
+        focal_point: "center"
     design:
       background:
         video: 
