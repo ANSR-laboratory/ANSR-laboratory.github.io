@@ -1,6 +1,5 @@
 ---
-title: 
-
+title: ''
 type: landing
 
 sections:
