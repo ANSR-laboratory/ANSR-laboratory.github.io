@@ -3,6 +3,20 @@ title: Research
 type: landing
 
 sections:
+  - block: hero
+    content:
+      title: ""
+      subtitle: ""
+      image:
+        filename: "placeholder.png"
+        focal_point: "center"
+    design:
+      background:
+        image:
+          filename: "research.svg"
+          size: cover  # Ensures full width
+          position: center
+          parallax: false
   - block: markdown
     content:
       title: Advancing Neuroimaging Science

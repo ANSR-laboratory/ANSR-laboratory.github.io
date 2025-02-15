@@ -1,11 +1,26 @@
 ---
 title: 'Read About Our Work!'
-
-# Listing view
 view: citation
 
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: 'banner.png'
+content:
+  filters:
+    folders: ['publication']
+  sort_by: 'Date'
+  sort_ascending: false
+
+  sections:
+  - block: hero
+    content:
+      title: ""
+      subtitle: ""
+      image:
+        filename: "placeholder.png"
+        focal_point: "center"
+    design:
+      background:
+        image:
+          filename: "publications.svg"
+          size: cover  # Ensures full width
+          position: center
+          parallax: false
 ---
