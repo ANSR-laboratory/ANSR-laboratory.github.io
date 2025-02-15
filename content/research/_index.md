@@ -2,7 +2,6 @@
 title: Advancing Neuroimaging Science
 
 type: landing
-view: compact
 
 sections:
   - block: markdown
