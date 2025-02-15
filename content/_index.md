@@ -12,7 +12,8 @@ sections:
     design:
       background:
         video: 
-          filename: "ansrbanner.mp4"  # Replace with the actual filename
+          filename: "ansrbanner.mp4"
+          size: cover # Ensures full width
           type: local
           loop: true  # Ensures the video loops continuously
           autoplay: true  # Automatically plays when the page loads
