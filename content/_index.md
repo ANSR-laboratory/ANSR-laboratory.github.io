@@ -24,7 +24,7 @@ sections:
     content:
       title: 'Our Science'
       text: |
-        <span style="color:#008ab0;"><strong>We develop and apply advanced statistical and machine learning methods to improve neuroimaging analysis and enhance our understanding of brain function in health and disease.</strong></span>
+        <span style="color:#008ab0;"><strong>We develop & apply advanced computational methods to improve neuroimaging analysis & enhance our understanding of human brain function.</strong></span>
 
         ![HMS & McLean Logo](hms_mcl.svg)
         
