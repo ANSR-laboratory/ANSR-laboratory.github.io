@@ -5,5 +5,5 @@ view: citation
 
 banner:
   caption: ''
-  image: 'publications.svg'
+  image: 'publications.png'
 ---
