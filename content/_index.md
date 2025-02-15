@@ -30,7 +30,7 @@ sections:
 
         <br>
 
-        <img src="assets/media/hms_mcl.svg" alt="HMS & McLean Logo"
+        <img src="/assets/media/hms_mcl.svg" alt="HMS & McLean Logo"
         style="width: 100%; max-width: 400px; margin: 10px auto; display: block;">
 
         <br>
