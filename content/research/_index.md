@@ -1,12 +1,12 @@
 ---
-title: Advancing Neuroimaging Science
+title: 
 
 type: landing
 
 sections:
   - block: markdown
     content:
-      title: ''
+      title: Advancing Neuroimaging Science
       text: |
         The **Applied Neuroimaging Statistics Research Laboratory** is an academic research group dedicated to improving statistical methodologies for analyzing functional magnetic resonance imaging (fMRI) data. Our research spans multiple domains, including the development of novel computational tools for studying the brain's structural and functional connectome. We leverage state-of-the-art techniques such as multi-modal data fusion and machine learning to address fundamental questions in neuroimaging and to enhance our understanding of neurological and psychiatric disorders. 
         
