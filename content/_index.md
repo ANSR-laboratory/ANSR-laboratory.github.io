@@ -9,17 +9,15 @@ sections:
   - block: hero
     content:
       title: ""
-      subtitle: ""
-      image:
-        filename: "placeholder.png"
-        focal_point: "center"
     design:
       background:
-        image:
-          filename: "ansrbanner.svg"
-          size: cover  # Ensures full width
+        video: 
+          filename: "ansrbanner.mp4"  # Replace with the actual filename
+          type: local
+          loop: true  # Ensures the video loops continuously
+          autoplay: true  # Automatically plays when the page loads
+          muted: true  # Mutes the video (recommended for UX)
           position: center
-          parallax: false
   - block: features
     content:
       title: 'Our Science'
