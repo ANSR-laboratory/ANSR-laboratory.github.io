@@ -6,7 +6,6 @@ subtitle: |
   Our work bridges theory and application, combining methodological innovation with empirical investigations in neuroimaging. By integrating advanced statistical approaches with neurobiological data, we aim to refine how we study brain networks, mental illness, and cognitive function.
 
 type: landing
-view: showcase
 
 sections:
   - block: hero
