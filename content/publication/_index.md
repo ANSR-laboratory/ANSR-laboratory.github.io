@@ -8,7 +8,7 @@ content:
   sort_by: 'Date'
   sort_ascending: false
 
-  sections:
+sections:
   - block: hero
     content:
       title: ""
