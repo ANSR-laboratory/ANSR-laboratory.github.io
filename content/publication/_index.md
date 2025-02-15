@@ -1,12 +1,9 @@
 ---
 title: 'Read About Our Work!'
-view: citation
 
-content:
-  filters:
-    folders: ['publication']
-  sort_by: 'Date'
-  sort_ascending: false
+type: landing
+
+view: citation
 
 sections:
   - block: hero
