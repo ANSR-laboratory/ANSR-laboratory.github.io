@@ -30,7 +30,7 @@ sections:
 
         <br>
 
-        <img src="hms_mcl.svg" alt="HMS & McLean Logo"
+        <img src="assets/media/hms_mcl.svg" alt="HMS & McLean Logo"
         style="width: 100%; max-width: 400px; margin: 10px auto; display: block;">
 
         <br>
@@ -38,6 +38,7 @@ sections:
         We are based in the <a href="https://www.mcleanmri.org/" target="_blank">McLean Imaging Center</a> at McLean Hospital & the <a href="https://psych.hms.harvard.edu/" target="_blank">Department of Psychiatry</a> at Harvard Medical School.
 
         </div>
+
         <br>
         <br>
       items:
