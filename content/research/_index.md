@@ -12,11 +12,14 @@ sections:
         focal_point: "center"
     design:
       background:
-        image:
-          filename: "research.svg"
-          size: cover  # Ensures full width
+        video: 
+          filename: "research.mp4"
+          size: cover # Ensures full width
+          type: local
+          loop: true  # Ensures the video loops continuously
+          autoplay: true  # Automatically plays when the page loads
+          muted: true  # Mutes the video (recommended for UX)
           position: center
-          parallax: false
   - block: markdown
     content:
       title: Advancing Neuroimaging Science
