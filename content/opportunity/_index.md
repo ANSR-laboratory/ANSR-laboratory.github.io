@@ -21,27 +21,37 @@ sections:
           autoplay: true  # Automatically plays when the page loads
           muted: true  # Mutes the video (recommended for UX)
           position: center
-  - block: markdown
+  - block: collection
+    id: lab-opportunities
     content:
       title: Openings in the Lab
+      subtitle: ''
       text: |
         You can browse our list of open positions (if any) here, as well as get an insight on the type of positions we typically advertise by browsing through our list of previous openings. We are also supportive of hosting strong PhD candidates and researchers supported by a personal fellowship/grant.
         
         **Please note:** applications for the listed positions need to be made through the Mass General Brigham (MGB) portal to be formally taken into account.
-  - block: hero
-    content:
-      title: Post-Doctoral Fellowship in Neuroimaging of Alzheimer's Disease
-      image:
-        # Reference an image in your `assets/media/` folder
-        filename: postdoc-r01.svg
-      text: |
-        NIA R01 - Multimodal Computational Neuroimaging, Big Data, Neuropsychiatric Symptoms, & Alzheimer’s Disease.
-  - block: hero
-    content:
-      title: Post-Doctoral Fellowship in Neuroimaging of Substance Use
-      image:
-        # Reference an image in your `assets/media/` folder
-        filename: postdoc-t32.svg
-      text: |
-        NIDA T32 - Drug Abuse & Brain Imaging Training Program
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 2
+      # Filter on criteria
+      filters:
+        # The folders to display content from
+        folders:
+          - opportunity
+        author: ""
+        category: ""
+        tag: ""
+        publication_type: ""
+        featured_only: false
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      # Choose how many pages you would like to offset by
+      # Useful if you wish to show the first item in the Featured widget
+      offset: 0
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
+    design:
+      # Choose a listing view
+      view: card
 ---
