@@ -54,4 +54,5 @@ sections:
     design:
       # Choose a listing view
       view: card
+      column: 1
 ---
