@@ -14,6 +14,7 @@ sections:
         focal_point: "center"
     design:
       background:
+        color: "transparent"
         image:
           filename: "contact.svg"
           size: cover  # Ensures full width

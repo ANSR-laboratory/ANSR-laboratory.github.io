@@ -12,6 +12,7 @@ sections:
         focal_point: "center"
     design:
       background:
+        color: "transparent"
         video: 
           filename: "research.mp4"
           size: cover # Ensures full width

@@ -15,6 +15,7 @@ sections:
         focal_point: "center"
     design:
       background:
+        color: "transparent"  # Makes the background behind the image transparent
         video: 
           filename: "ansrbanner.mp4"
           size: cover # Ensures full width

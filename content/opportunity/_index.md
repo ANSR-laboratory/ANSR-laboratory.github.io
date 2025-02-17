@@ -13,6 +13,7 @@ sections:
         focal_point: "center"
     design:
       background:
+        color: "transparent"
         video: 
           filename: "opportunity.mp4"
           size: cover # Ensures full width
