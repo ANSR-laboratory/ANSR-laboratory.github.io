@@ -1,9 +1,6 @@
-{{ $particles := resources.Get "js/particles.min.js" | fingerprint }}
-{{ $particlesInit := resources.Get "js/particles-init.js" | fingerprint }}
-
 <!-- Load Particles.js -->
-<script src="{{ $particles.RelPermalink }}"></script>
-<script src="{{ $particlesInit.RelPermalink }}"></script>
+<script src="/js/particles.js"></script>
+<script src="/js/particles-init.js"></script>
 
 <!-- Add the particles container -->
 <div id="particles-js" style="position: absolute; width: 100%; height: 100%; z-index: -1; top: 0; left: 0;"></div>

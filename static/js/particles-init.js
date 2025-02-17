@@ -2,14 +2,14 @@ document.addEventListener("DOMContentLoaded", function() {
     particlesJS("particles-js", {
         "particles": {
             "number": {
-                "value": 80,
+                "value": 100, // Adjust number of particles
                 "density": {
                     "enable": true,
                     "value_area": 800
                 }
             },
             "color": {
-                "value": "#008ab0" // Match your website's blue color
+                "value": "#008ab0" // Adjust particle color to your logo blue
             },
             "shape": {
                 "type": "circle",
@@ -41,13 +41,13 @@ document.addEventListener("DOMContentLoaded", function() {
             "line_linked": {
                 "enable": true,
                 "distance": 150,
-                "color": "#bcc6cc", // Silver color for connections
+                "color": "#bcc6cc", // Adjust line color to silver
                 "opacity": 0.4,
                 "width": 1
             },
             "move": {
                 "enable": true,
-                "speed": 3,
+                "speed": 3, // Adjust movement speed
                 "direction": "none",
                 "random": false,
                 "straight": false,
