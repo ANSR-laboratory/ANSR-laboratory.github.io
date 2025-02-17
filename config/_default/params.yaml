@@ -105,6 +105,10 @@ features:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
+  # Custom JavaScript
+  custom_js:
+    - js/particles.min.js
+    - js/particles-init.js
 
 # Extensions
 
