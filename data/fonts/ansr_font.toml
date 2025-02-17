@@ -1,8 +1,5 @@
 # Font style metadata
-name = "ANSR"
-
-# Local font (not using Google Fonts)
-google_fonts = ""
+name = "ANSR Font Set"
 
 # Font families
 heading_font = "ITC Bauhaus"

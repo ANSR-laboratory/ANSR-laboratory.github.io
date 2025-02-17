@@ -8,7 +8,7 @@
 appearance:
   theme_day: ANSR
   theme_night:
-  font: ANSR
+  font: ansr_font
   font_size: L
 
 # SEO
