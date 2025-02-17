@@ -12,9 +12,9 @@ name = "ANSR"
   menu_title = "#000000"  # Black for section titles
 
   # Backgrounds
-  background = "#ffffff"
-  home_section_odd = "rgb(255, 255, 255)" # White background for odd sections
-  home_section_even = "rgb(255, 255, 255)" # White background for even sections
+  background = "transparent"
+  home_section_odd = "transparent"  # Transparent for odd sections
+  home_section_even = "transparent"  # Transparent for even sections
 
   # Links
   link = "#008ab0"
