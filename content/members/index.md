@@ -14,6 +14,7 @@ sections:
         focal_point: "center"
     design:
       background:
+        color: "transparent"  # Makes the background behind the image transparent
         image:
           filename: "people.svg"
           size: cover  # Ensures full width
