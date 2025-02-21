@@ -35,7 +35,7 @@ sections:
         <br>
 
         <img src="https://raw.githubusercontent.com/ANSR-laboratory/ANSR-laboratory.github.io/main/assets/media/full-logo.svg" 
-        alt="HMS & McLean Logo"
+        alt="ANSR Logo"
         style="width: 100%; max-width: 400px; margin: 10px auto; display: block;">
 
         <br>
