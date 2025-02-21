@@ -28,26 +28,26 @@ sections:
     content:
       title: 'Our Science'
       text: |
-        <div style="text-align: center;">
+        <div style="text-align: center; font-size: 1.2em;"> <!-- Adjust the size as needed -->
 
-        <span style="color:#008ab0;"><strong>We develop & apply advanced computational methods to improve neuroimaging analysis & enhance our understanding of human brain function.</strong></span>
+        <span style="color:#008ab0; font-size: 1.5em;"><strong>We develop & apply advanced computational methods to improve neuroimaging analysis & enhance our understanding of human brain function.</strong></span>
 
         <br>
 
-        <img src="https://raw.githubusercontent.com/ANSR-laboratory/ANSR-laboratory.github.io/main/assets/media/hms_mcl.svg" 
+        <img src="https://raw.githubusercontent.com/ANSR-laboratory/ANSR-laboratory.github.io/main/assets/media/full-logo.svg" 
         alt="HMS & McLean Logo"
         style="width: 100%; max-width: 400px; margin: 10px auto; display: block;">
 
         <br>
 
-        We are based in the <a href="https://www.mcleanmri.org/" target="_blank">McLean Imaging Center</a> at McLean Hospital & the <a href="https://psych.hms.harvard.edu/" target="_blank">Department of Psychiatry</a> at Harvard Medical School.
+        <span style="font-size: 1.2em;">We are based in the <a href="https://www.mcleanmri.org/" target="_blank">McLean Imaging Center</a> at McLean Hospital & the <a href="https://psych.hms.harvard.edu/" target="_blank">Department of Psychiatry</a> at Harvard Medical School.</span>
 
         </div>
         <br>
         <br>
       items:
-        - name: "Neuroimaging Research"
-          description: "Advancing neuroimaging techniques to study brain structure and function, integrating fMRI, PET, and advanced computational models."
+        - name: "Neuroimaging Statistics"
+          description: "Advancing neuroimaging statistical techniques to study brain structure and function, integrating fMRI, PET, and advanced computational models."
           icon: neuroimaging
           icon_pack: custom
         - name: "Computational Methods"
@@ -58,8 +58,8 @@ sections:
           description: "Leveraging large-scale datasets like HCP and ADNI to understand individual variability and brain-behavior relationships."
           icon: data
           icon_pack: custom
-        - name: "Biological Psychiatry"
-          description: "Investigating the biological basis of psychiatric disorders using brain imaging, computational modeling, and multi-modal data analysis to uncover brain-behavior associations and inform precision medicine approaches."
+        - name: "Psychiatric Neuroimaging of Addiction"
+          description: "Using advanced neuroimaging techniques to investigate the neural mechanisms underlying substance use and addiction, with a focus on brain connectivity, cognitive function, and treatment response."
           icon: biopsych
           icon_pack: custom
         - name: "Open Science & Reproducibility"

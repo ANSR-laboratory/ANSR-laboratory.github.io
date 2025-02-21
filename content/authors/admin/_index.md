@@ -42,9 +42,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:lisa_nickerson@hms.harvard.edu'
-  - icon: twitter
-    icon_pack: fab
-    link: https://x.com/DrLisaNickerson
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=DVKR00cAAAAJ&hl=en&oi=ao
