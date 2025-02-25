@@ -26,7 +26,10 @@ bio: My research interests include neurodegenerative disorder, aging, and neurog
 
 interests:
   - Computational Neuroscience
+  - Computational Psychiatry
+  - Machine Learning
   - Neuroimaging
+  - Dementia
   - Human Navigation
 
 education:
@@ -34,6 +37,9 @@ education:
     - course: PhD in Cognitive Sciences
       institution: University of California, Irvine
       year: 2022
+    - course: MS in Cognitive Neuroscience
+      institution: University of California, Irvine
+      year: 2020
     - course: MA in Geography
       institution: University of California, Santa Barbara
       year: 2019
@@ -76,10 +82,8 @@ user_groups:
   - Research Trainees and Staff
 ---
 
-Dr. Lily Cheng’s research focuses on two fundamental questions: How does the brain function during navigation, and how does the environment shape cognition?
+Dr. Cheng investigates brain-behavior relationships to advance both cognitive neuroscience and clinical translation. As a researcher in the Applied Neuroimaging Statistics Laboratory (ANSR) at McLean Hospital, she collaborates with mentors Dr. Lisa Nickerson and Dr. David Harper to map neuroimaging biomarkers associated with neuropsychiatric symptoms in Alzheimer’s disease. Leveraging multi-modal datasets from public datasets such as the Human Connectome Project (HCP) and the Alzheimer’s Disease Neuroimaging Initiative (ADNI), her work aims to improve diagnostic and therapeutic strategies for neurodegenerative diseases.
 
-To explore the first question, Dr. Cheng investigates individual differences in the perception of distance, direction, and decision-making during wayfinding. Her work examines the neural mechanisms underlying the travel direction system in the human brain through the use of psychophysics, functional magnetic resonance imaging (fMRI), and computational modeling.
+Her early research focused on understanding individual differences in spatial cognition. Combining fMRI, psychophysics, and computational modeling, she identified distinct neural networks involved in processing travel trajectories versus head direction, providing foundational insights into how the brain supports navigation. Her studies also revealed how demographic factors, such as gender, correlate with self-reported navigation strategies, underscoring the interplay of biological and sociocultural influences on cognition. During her training at Massachusetts General Hospital (MGH), Dr. Cheng developed expertise in statistical modeling and machine learning to address heterogeneity in Alzheimer’s disease and related dementias. Her analyses of neuroimaging and clinical data advanced methods for characterizing subtypes of dementia progression, with implications for personalized patient care.
 
-Addressing the second question, Dr. Cheng studies how biased world knowledge impacts cognition. Recognizing that 90% of humans are right-handed and most tools are designed for right-handed use, she examines how this right-handed bias influences cognition across spatial scales. Her research includes testing left-handed and right-handed individuals, as well as virtual robots, in spatial tasks.
-
-Dr. Cheng’s research agenda spans diverse scientific questions across spatial and temporal scales. She investigates how neuroinflammation in the medial temporal lobe contributes to spatial disorientation and examines sex differences in spatial abilities across different cultural and geographical contexts. Additionally, her work considers evolutionary perspectives on navigation strategies, such as the hunter-gatherer theory.
+By integrating her work on individual cognitive differences with neurodegenerative disease research, Dr. Cheng seeks to translate neuroimaging discoveries into actionable tools for clinicians. Her interdisciplinary approach bridges cognitive neuroscience and clinical translation, aiming to enhance outcomes for individuals affected by dementia.
